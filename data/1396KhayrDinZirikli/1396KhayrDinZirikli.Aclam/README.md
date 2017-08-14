@@ -14,16 +14,13 @@ https://archive.org/details/WAQ99019
 
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
-Type your response here.
+There are a lot of questions marks randomly appearing in the 8th volume.
 
 ## 4. Add any comments on the text
 
 Type your response here
 
-## 5. ...
+## 5. ...PageV04P109
 
 ## Comments by : [Firstname Lastname]
 
-
-fertig bis:
-### $ أبو كرب = النعمان بن الحارث PageV05P220
