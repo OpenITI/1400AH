@@ -9,12 +9,9 @@
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
 20#AUTH#VISITED##: URIs from Althurayya, comma separated
-30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
-30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#BORN###AH: 1293-RA1-11
+30#AUTH#DIED###AH: 1389-DHH-13
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#AUTH#COMMENT##: EI2: "Āg̲h̲ā Buzurg , Twelver S̲h̲rʿī scholar and bibliographer (born Tehran 11 Rabīʿ I 1293/6 April 1876, died Nad̲j̲af 13 D̲h̲u ’l-Ḥid̲j̲d̲j̲a 1389/20 February 1970.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_7548
