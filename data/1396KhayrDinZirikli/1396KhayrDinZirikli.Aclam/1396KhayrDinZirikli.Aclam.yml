@@ -1,7 +1,7 @@
 00#BOOK#URI######: 1396KhayrDinZirikli.Aclam
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: al-Aʿlām
+10#BOOK#TITLEB#AR: Qāmūs tarāǧim li-ašhar al-riǧāl wa-al-nisāʾ min al-ʿArab wa-al-mustaʿribīn wa-al-mustašriqīn
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
