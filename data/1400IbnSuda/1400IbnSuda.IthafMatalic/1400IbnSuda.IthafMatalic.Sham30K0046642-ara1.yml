@@ -5,6 +5,8 @@
 80#VERS#COLLATED#: https://worldcat.org/en/title/37048008
 80#VERS#LINKS####: https://archive.org/details/120114_201809
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##:
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2023-02-21
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
