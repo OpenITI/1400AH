@@ -1,11 +1,11 @@
-00#VERS#CLENGTH##: 11221
-00#VERS#LENGTH###: 2525
+00#VERS#CLENGTH##: 11016
+00#VERS#LENGTH###: 2482
 00#VERS#URI######: 1400MuhammadNadim.TaysirQiraaCarabiyya.Kraken221125160356-ara1
 80#VERS#BASED####: https://www.worldcat.org/title/1341997606
-80#VERS#COLLATED#: 
-80#VERS#LINKS####: 
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
     https://library.oapen.org/bitstream/handle/20.500.12657/59662/9783110776485.pdf?sequence=1&isAllowed=y
-90#VERS#ANNOTATOR: 
+90#VERS#ANNOTATOR:
 90#VERS#COMMENT##: OCRed through Kraken:
     * Kraken version: 3.0.0.0b21.dev6
     * segmentation model: DEFAULT
@@ -20,6 +20,7 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/1400AH/pre-clean/data/1400MuhammadNadim/1400MuhammadNadim.TaysirQiraaCarabiyya/1400MuhammadNadim.TaysirQiraaCarabiyya.Kraken221125160356-ara1
+    https://raw.githubusercontent.com/OpenITI/1400AH/pre-
+    clean/data/1400MuhammadNadim/1400MuhammadNadim.TaysirQiraaCarabiyya/1400MuhammadNadim.TaysirQiraaCarabiyya.Kraken221125160356-ara1
 90#VERS#DATE#####: 2022-11-25
 90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

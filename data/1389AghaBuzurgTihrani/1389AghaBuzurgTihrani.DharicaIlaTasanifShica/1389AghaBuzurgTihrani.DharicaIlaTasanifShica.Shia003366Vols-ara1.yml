@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 12019136
-00#VERS#LENGTH###: 2708298
+00#VERS#CLENGTH##: 11783389
+00#VERS#LENGTH###: 2654035
 00#VERS#URI######: 1389AghaBuzurgTihrani.DharicaIlaTasanifShica.Shia003366Vols-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770177212
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770177212
@@ -48,6 +48,9 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/1400AH/pre-clean/data/1389AghaBuzurgTihrani/1389AghaBuzurgTihrani.DharicaIlaTasanifShica/1389AghaBuzurgTihrani.DharicaIlaTasanifShica.Shia003366Vols-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/1400AH/pre-
+    clean/data/1389AghaBuzurgTihrani/1389AghaBuzurgTihrani.DharicaIlaTasanifShica/1389AghaBuzurgTihrani.DharicaIlaTasanifShica.Shia003366Vols-
+    ara1.completed
 90#VERS#DATE#####: 2020-10-14
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, FOOTNOTE, RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, FOOTNOTE, RANDOM_CHARS,
+    PRIMARY_VERSION, CLEANED_VERSION
