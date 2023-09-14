@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379SacidTaqiDin.MawjatNar.Hindawi48595813",
-    "BookCats": "literature",
-    "BookID": "48595813",
-    "BookTitle": "موجة نار: مجموعة قصص",
-    "AuthorID": "35727531",
-    "AuthorNam": "سعيد تقي الدين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379SacidTaqiDin.MawjatNar.Hindawi48595813
+#META# Tags: literature
+#META# ID: 48595813
+#META# Title: موجة نار: مجموعة قصص
+#META# AuthorID: 35727531
+#META# Author: سعيد تقي الدين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

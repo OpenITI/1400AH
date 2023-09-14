@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.MatlacNur.Hindawi39418519",
-    "BookCats": "literature",
-    "BookID": "39418519",
-    "BookTitle": "مطلع النور",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.MatlacNur.Hindawi39418519
+#META# Tags: literature
+#META# ID: 39418519
+#META# Title: مطلع النور
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379MuhammadAscadTalas.AtharIslamiyyaFiHalab.Hindawi93072641",
-    "BookCats": "history :: arts",
-    "BookID": "93072641",
-    "BookTitle": "الآثار الإسلامية والتاريخية في حلب",
-    "AuthorID": "35030937",
-    "AuthorNam": "محمد أسعد طلس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379MuhammadAscadTalas.AtharIslamiyyaFiHalab.Hindawi93072641
+#META# Tags: history :: arts
+#META# ID: 93072641
+#META# Title: الآثار الإسلامية والتاريخية في حلب
+#META# AuthorID: 35030937
+#META# Author: محمد أسعد طلس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

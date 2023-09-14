@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1387JamalDinShayyal.MujmalTarikhDumyat.Hindawi59285936",
-    "BookCats": "history",
-    "BookID": "59285936",
-    "BookTitle": "مُجمَل تاريخ دمياط : سياسيًّا واقتصاديًّا",
-    "AuthorID": "18290715",
-    "AuthorNam": "جمال الدين الشيال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1387JamalDinShayyal.MujmalTarikhDumyat.Hindawi59285936
+#META# Tags: history
+#META# ID: 59285936
+#META# Title: مُجمَل تاريخ دمياط : سياسيًّا واقتصاديًّا
+#META# AuthorID: 18290715
+#META# Author: جمال الدين الشيال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

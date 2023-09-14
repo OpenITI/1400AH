@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.OedipusAndTheseus.Hindawi29384073",
-    "BookCats": "novels",
-    "BookID": "29384073",
-    "BookTitle": "أوديب وثيسيوس: من أبطال الأساطير اليونانية",
-    "AuthorID": "59624258",
-    "AuthorNam": "طه حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.OedipusAndTheseus.Hindawi29384073
+#META# Tags: novels
+#META# ID: 29384073
+#META# Title: أوديب وثيسيوس: من أبطال الأساطير اليونانية
+#META# AuthorID: 59624258
+#META# Author: طه حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

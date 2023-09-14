@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CaliBalhawan.TunisThaira.Hindawi18051482",
-    "BookCats": "history",
-    "BookID": "18051482",
-    "BookTitle": "تونس الثائرة",
-    "AuthorID": "31864717",
-    "AuthorNam": "علي البلهوان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377CaliBalhawan.TunisThaira.Hindawi18051482
+#META# Tags: history
+#META# ID: 18051482
+#META# Title: تونس الثائرة
+#META# AuthorID: 31864717
+#META# Author: علي البلهوان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

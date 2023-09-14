@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabbasHafiz.CyranoDeBergerac.Hindawi71619149",
-    "BookCats": "plays",
-    "BookID": "71619149",
-    "BookTitle": "سيرانو دي برجراك",
-    "AuthorID": "37160493",
-    "AuthorNam": "إدموند روستان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "74930641",
-    "TranslNam": "عباس حافظ",
-    "BookRel": "1337EdmondRostand.CyranoDeBergerac (TRANSL)"
-}
-
+#META# URI: 1378CabbasHafiz.CyranoDeBergerac.Hindawi71619149
+#META# Tags: plays
+#META# ID: 71619149
+#META# Title: سيرانو دي برجراك
+#META# AuthorID: 37160493
+#META# Author: إدموند روستان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 74930641
+#META# Translator: عباس حافظ
+#META# Related_books: 1337EdmondRostand.CyranoDeBergerac (TRANSL)
 
 #META#Header#End#
 

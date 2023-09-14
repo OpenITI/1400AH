@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1386KaramBustani.AsatirSharqiyya.Hindawi27908393",
-    "BookCats": "history :: literature",
-    "BookID": "27908393",
-    "BookTitle": "أساطير شرقية",
-    "AuthorID": "24172085",
-    "AuthorNam": "كرم البستاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1386KaramBustani.AsatirSharqiyya.Hindawi27908393
+#META# Tags: history :: literature
+#META# ID: 27908393
+#META# Title: أساطير شرقية
+#META# AuthorID: 24172085
+#META# Author: كرم البستاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

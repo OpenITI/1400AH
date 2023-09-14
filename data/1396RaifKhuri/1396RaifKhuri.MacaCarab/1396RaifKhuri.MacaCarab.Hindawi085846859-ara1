@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1396RaifKhuri.MacaCarab.Hindawi85846859",
-    "BookCats": "history :: literature",
-    "BookID": "85846859",
-    "BookTitle": "مع العرب: في التاريخ والأسطورة",
-    "AuthorID": "64735270",
-    "AuthorNam": "رئيف خوري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1396RaifKhuri.MacaCarab.Hindawi85846859
+#META# Tags: history :: literature
+#META# ID: 85846859
+#META# Title: مع العرب: في التاريخ والأسطورة
+#META# AuthorID: 64735270
+#META# Author: رئيف خوري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

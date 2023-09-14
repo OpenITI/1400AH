@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1382AhmadLutfiSayyid.Taammulat.Hindawi30297592",
-    "BookCats": "literature",
-    "BookID": "30297592",
-    "BookTitle": "تأملات: في الفلسفة والأدب والسياسة والاجتماع",
-    "AuthorID": "81524293",
-    "AuthorNam": "أحمد لطفي السيد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1382AhmadLutfiSayyid.Taammulat.Hindawi30297592
+#META# Tags: literature
+#META# ID: 30297592
+#META# Title: تأملات: في الفلسفة والأدب والسياسة والاجتماع
+#META# AuthorID: 81524293
+#META# Author: أحمد لطفي السيد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

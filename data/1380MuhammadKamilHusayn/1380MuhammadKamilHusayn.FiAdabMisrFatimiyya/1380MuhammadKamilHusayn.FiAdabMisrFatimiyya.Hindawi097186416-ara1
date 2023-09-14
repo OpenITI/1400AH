@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380MuhammadKamilHusayn.FiAdabMisrFatimiyya.Hindawi97186416",
-    "BookCats": "history :: literature",
-    "BookID": "97186416",
-    "BookTitle": "في أدب مصر الفاطمية",
-    "AuthorID": "40602736",
-    "AuthorNam": "محمد كامل حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1380MuhammadKamilHusayn.FiAdabMisrFatimiyya.Hindawi97186416
+#META# Tags: history :: literature
+#META# ID: 97186416
+#META# Title: في أدب مصر الفاطمية
+#META# AuthorID: 40602736
+#META# Author: محمد كامل حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

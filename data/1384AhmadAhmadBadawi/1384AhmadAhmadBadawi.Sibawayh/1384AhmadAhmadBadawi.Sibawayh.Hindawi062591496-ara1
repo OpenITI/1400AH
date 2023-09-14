@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1384AhmadAhmadBadawi.Sibawayh.Hindawi62591496",
-    "BookCats": "biographies",
-    "BookID": "62591496",
-    "BookTitle": "سيبويه: حياته وكتابه",
-    "AuthorID": "15858053",
-    "AuthorNam": "أحمد أحمد بدوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1384AhmadAhmadBadawi.Sibawayh.Hindawi62591496
+#META# Tags: biographies
+#META# ID: 62591496
+#META# Title: سيبويه: حياته وكتابه
+#META# AuthorID: 15858053
+#META# Author: أحمد أحمد بدوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

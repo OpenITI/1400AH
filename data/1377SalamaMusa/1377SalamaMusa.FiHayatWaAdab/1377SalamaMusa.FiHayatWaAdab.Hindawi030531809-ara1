@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.FiHayatWaAdab.Hindawi30531809",
-    "BookCats": "literature",
-    "BookID": "30531809",
-    "BookTitle": "في الحياة والأدب",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.FiHayatWaAdab.Hindawi30531809
+#META# Tags: literature
+#META# ID: 30531809
+#META# Title: في الحياة والأدب
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

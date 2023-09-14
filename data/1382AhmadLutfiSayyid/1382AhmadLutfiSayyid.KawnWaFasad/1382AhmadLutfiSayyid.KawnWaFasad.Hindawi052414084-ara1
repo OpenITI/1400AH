@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1382AhmadLutfiSayyid.KawnWaFasad.Hindawi52414084",
-    "BookCats": "philosophy",
-    "BookID": "52414084",
-    "BookTitle": "الكون والفساد",
-    "AuthorID": "91624246",
-    "AuthorNam": "أرسطوطاليس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "81524293",
-    "TranslNam": "أحمد لطفي السيد",
-    "BookRel": "0001Aristotle.PerGeneseosKaiFthoras (TRANSL)"
-}
-
+#META# URI: 1382AhmadLutfiSayyid.KawnWaFasad.Hindawi52414084
+#META# Tags: philosophy
+#META# ID: 52414084
+#META# Title: الكون والفساد
+#META# AuthorID: 91624246
+#META# Author: أرسطوطاليس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 81524293
+#META# Translator: أحمد لطفي السيد
+#META# Related_books: 0001Aristotle.PerGeneseosKaiFthoras (TRANSL)
 
 #META#Header#End#
 

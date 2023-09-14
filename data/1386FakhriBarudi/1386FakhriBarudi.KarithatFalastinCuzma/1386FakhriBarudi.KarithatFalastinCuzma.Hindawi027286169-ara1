@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1386FakhriBarudi.KarithatFalastinCuzma.Hindawi27286169",
-    "BookCats": "history",
-    "BookID": "27286169",
-    "BookTitle": "كارثة فلسطين العظمى",
-    "AuthorID": "62505848",
-    "AuthorNam": "فخري البارودي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1386FakhriBarudi.KarithatFalastinCuzma.Hindawi27286169
+#META# Tags: history
+#META# ID: 27286169
+#META# Title: كارثة فلسطين العظمى
+#META# AuthorID: 62505848
+#META# Author: فخري البارودي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

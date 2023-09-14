@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabbasHafiz.NahdatMisr.Hindawi69702740",
-    "BookCats": "history",
-    "BookID": "69702740",
-    "BookTitle": "نهضة مصر",
-    "AuthorID": "74930641",
-    "AuthorNam": "عباس حافظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378CabbasHafiz.NahdatMisr.Hindawi69702740
+#META# Tags: history
+#META# ID: 69702740
+#META# Title: نهضة مصر
+#META# AuthorID: 74930641
+#META# Author: عباس حافظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

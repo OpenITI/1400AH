@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376ZakiMuhammadHasan.FiFununIslamiyya.Hindawi61725371",
-    "BookCats": "arts",
-    "BookID": "61725371",
-    "BookTitle": "في الفنون الإسلامية",
-    "AuthorID": "15169292",
-    "AuthorNam": "زكي محمد حسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376ZakiMuhammadHasan.FiFununIslamiyya.Hindawi61725371
+#META# Tags: arts
+#META# ID: 61725371
+#META# Title: في الفنون الإسلامية
+#META# AuthorID: 15169292
+#META# Author: زكي محمد حسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

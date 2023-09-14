@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380CaliMahirBasha.JabhatMisr.Hindawi58090604",
-    "BookCats": "history",
-    "BookID": "58090604",
-    "BookTitle": "جبهة مصر: مشروع برنامج لرسم سياسة قومية",
-    "AuthorID": "85284948",
-    "AuthorNam": "علي ماهر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1380CaliMahirBasha.JabhatMisr.Hindawi58090604
+#META# Tags: history
+#META# ID: 58090604
+#META# Title: جبهة مصر: مشروع برنامج لرسم سياسة قومية
+#META# AuthorID: 85284948
+#META# Author: علي ماهر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

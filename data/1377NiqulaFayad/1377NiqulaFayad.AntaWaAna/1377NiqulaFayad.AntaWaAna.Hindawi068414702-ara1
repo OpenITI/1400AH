@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377NiqulaFayad.AntaWaAna.Hindawi68414702",
-    "BookCats": "poetry",
-    "BookID": "68414702",
-    "BookTitle": "أنت وأنا",
-    "AuthorID": "37948403",
-    "AuthorNam": "بول جيرالدي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "79141535",
-    "TranslNam": "نِقولا فياض",
-    "BookRel": "1403PaulGeraldy.ToiEtMoi (TRANSL)"
-}
-
+#META# URI: 1377NiqulaFayad.AntaWaAna.Hindawi68414702
+#META# Tags: poetry
+#META# ID: 68414702
+#META# Title: أنت وأنا
+#META# AuthorID: 37948403
+#META# Author: بول جيرالدي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 79141535
+#META# Translator: نِقولا فياض
+#META# Related_books: 1403PaulGeraldy.ToiEtMoi (TRANSL)
 
 #META#Header#End#
 

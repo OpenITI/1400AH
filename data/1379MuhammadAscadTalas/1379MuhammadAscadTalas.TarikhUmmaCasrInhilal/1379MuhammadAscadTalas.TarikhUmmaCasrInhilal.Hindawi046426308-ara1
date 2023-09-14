@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379MuhammadAscadTalas.TarikhUmmaCasrInhilal.Hindawi46426308",
-    "BookCats": "history",
-    "BookID": "46426308",
-    "BookTitle": "عصر الانحلال: تاريخ الأمة العربية (الجزء السادس)",
-    "AuthorID": "35030937",
-    "AuthorNam": "محمد أسعد طلس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379MuhammadAscadTalas.TarikhUmmaCasrInhilal.Hindawi46426308
+#META# Tags: history
+#META# ID: 46426308
+#META# Title: عصر الانحلال: تاريخ الأمة العربية (الجزء السادس)
+#META# AuthorID: 35030937
+#META# Author: محمد أسعد طلس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

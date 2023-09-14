@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1390AhmadFuadAhwani.TarbiyaFiIslam.Hindawi40635716",
-    "BookCats": "history",
-    "BookID": "40635716",
-    "BookTitle": "التربية في الإسلام: التعليم في رأي القابسي",
-    "AuthorID": "36160360 :: 58628571",
-    "AuthorNam": "أحمد فؤاد الأهواني :: مصطفى عبد الرازق #تقديم#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1390AhmadFuadAhwani.TarbiyaFiIslam.Hindawi40635716
+#META# Tags: history
+#META# ID: 40635716
+#META# Title: التربية في الإسلام: التعليم في رأي القابسي
+#META# AuthorID: 36160360 :: 58628571
+#META# Author: أحمد فؤاد الأهواني :: مصطفى عبد الرازق #تقديم#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

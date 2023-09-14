@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabdWahhabCazzam.PayamMashriq.Hindawi40418486",
-    "BookCats": "poetry",
-    "BookID": "40418486",
-    "BookTitle": "پيام مشرق",
-    "AuthorID": "94029630",
-    "AuthorNam": "محمد إقبال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "24138681",
-    "TranslNam": "عبد الوهاب عزام",
-    "BookRel": "1356MuhammadIqbal.PayamMashriq (TRANSL)"
-}
-
+#META# URI: 1378CabdWahhabCazzam.PayamMashriq.Hindawi40418486
+#META# Tags: poetry
+#META# ID: 40418486
+#META# Title: پيام مشرق
+#META# AuthorID: 94029630
+#META# Author: محمد إقبال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 24138681
+#META# Translator: عبد الوهاب عزام
+#META# Related_books: 1356MuhammadIqbal.PayamMashriq (TRANSL)
 
 #META#Header#End#
 

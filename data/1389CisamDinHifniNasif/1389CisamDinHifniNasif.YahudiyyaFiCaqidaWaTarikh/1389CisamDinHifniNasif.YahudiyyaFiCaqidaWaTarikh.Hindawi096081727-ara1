@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1389CisamDinHifniNasif.YahudiyyaFiCaqidaWaTarikh.Hindawi96081727",
-    "BookCats": "religions :: philosophy",
-    "BookID": "96081727",
-    "BookTitle": "اليهودية في العقيدة والتاريخ",
-    "AuthorID": "40351848",
-    "AuthorNam": "عصام الدين حفني ناصف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1389CisamDinHifniNasif.YahudiyyaFiCaqidaWaTarikh.Hindawi96081727
+#META# Tags: religions :: philosophy
+#META# ID: 96081727
+#META# Title: اليهودية في العقيدة والتاريخ
+#META# AuthorID: 40351848
+#META# Author: عصام الدين حفني ناصف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

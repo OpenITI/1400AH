@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381IsmacilMazhar.BidayatCasrBatalima.Hindawi17162930",
-    "BookCats": "history",
-    "BookID": "17162930",
-    "BookTitle": "بداءة عصر البطالمة: محاضرة ألقيت في المؤتمر الثامن للمجمع المصري للثقافة العلمية",
-    "AuthorID": "53973639",
-    "AuthorNam": "إسماعيل مظهر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381IsmacilMazhar.BidayatCasrBatalima.Hindawi17162930
+#META# Tags: history
+#META# ID: 17162930
+#META# Title: بداءة عصر البطالمة: محاضرة ألقيت في المؤتمر الثامن للمجمع المصري للثقافة العلمية
+#META# AuthorID: 53973639
+#META# Author: إسماعيل مظهر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

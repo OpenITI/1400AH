@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1386CabdRahmanRafici.Mudhakkirat.Hindawi51827368",
-    "BookCats": "history :: biographies",
-    "BookID": "51827368",
-    "BookTitle": "مذكراتي ١٨٨٩–١٩٥١",
-    "AuthorID": "35064136",
-    "AuthorNam": "عبد الرحمن الرافعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1386CabdRahmanRafici.Mudhakkirat.Hindawi51827368
+#META# Tags: history :: biographies
+#META# ID: 51827368
+#META# Title: مذكراتي ١٨٨٩–١٩٥١
+#META# AuthorID: 35064136
+#META# Author: عبد الرحمن الرافعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

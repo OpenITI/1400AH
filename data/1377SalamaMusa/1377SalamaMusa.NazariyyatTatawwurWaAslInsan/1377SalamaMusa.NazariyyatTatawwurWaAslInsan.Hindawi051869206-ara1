@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.NazariyyatTatawwurWaAslInsan.Hindawi51869206",
-    "BookCats": "science :: philosophy",
-    "BookID": "51869206",
-    "BookTitle": "نظرية التطور وأصل الإنسان",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.NazariyyatTatawwurWaAslInsan.Hindawi51869206
+#META# Tags: science :: philosophy
+#META# ID: 51869206
+#META# Title: نظرية التطور وأصل الإنسان
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

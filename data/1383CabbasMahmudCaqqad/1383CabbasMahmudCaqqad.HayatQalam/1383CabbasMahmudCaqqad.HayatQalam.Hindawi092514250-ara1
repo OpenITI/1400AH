@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.HayatQalam.Hindawi92514250",
-    "BookCats": "biographies",
-    "BookID": "92514250",
-    "BookTitle": "حياة قلم",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.HayatQalam.Hindawi92514250
+#META# Tags: biographies
+#META# ID: 92514250
+#META# Title: حياة قلم
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

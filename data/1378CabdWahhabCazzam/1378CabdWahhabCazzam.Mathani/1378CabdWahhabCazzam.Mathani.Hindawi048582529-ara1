@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabdWahhabCazzam.Mathani.Hindawi48582529",
-    "BookCats": "poetry",
-    "BookID": "48582529",
-    "BookTitle": "المثاني",
-    "AuthorID": "24138681",
-    "AuthorNam": "عبد الوهاب عزام",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378CabdWahhabCazzam.Mathani.Hindawi48582529
+#META# Tags: poetry
+#META# ID: 48582529
+#META# Title: المثاني
+#META# AuthorID: 24138681
+#META# Author: عبد الوهاب عزام
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

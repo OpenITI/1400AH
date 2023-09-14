@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.MaraLaysatLacbatRajul.Hindawi41726090",
-    "BookCats": "literature",
-    "BookID": "41726090",
-    "BookTitle": "المرأة ليست لعبة الرجل",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.MaraLaysatLacbatRajul.Hindawi41726090
+#META# Tags: literature
+#META# ID: 41726090
+#META# Title: المرأة ليست لعبة الرجل
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

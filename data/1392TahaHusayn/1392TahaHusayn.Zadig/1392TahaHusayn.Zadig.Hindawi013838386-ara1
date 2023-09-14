@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.Zadig.Hindawi13838386",
-    "BookCats": "novels",
-    "BookID": "13838386",
-    "BookTitle": "زديج",
-    "AuthorID": "70507046",
-    "AuthorNam": "فولتير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "59624258",
-    "TranslNam": "طه حسين",
-    "BookRel": "1192Voltaire.Zadig (TRANSL)"
-}
-
+#META# URI: 1392TahaHusayn.Zadig.Hindawi13838386
+#META# Tags: novels
+#META# ID: 13838386
+#META# Title: زديج
+#META# AuthorID: 70507046
+#META# Author: فولتير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 59624258
+#META# Translator: طه حسين
+#META# Related_books: 1192Voltaire.Zadig (TRANSL)
 
 #META#Header#End#
 

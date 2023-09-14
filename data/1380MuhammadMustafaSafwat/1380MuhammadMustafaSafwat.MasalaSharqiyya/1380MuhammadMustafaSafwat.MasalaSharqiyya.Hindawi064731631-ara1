@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380MuhammadMustafaSafwat.MasalaSharqiyya.Hindawi64731631",
-    "BookCats": "history",
-    "BookID": "64731631",
-    "BookTitle": "المسألة الشرقية ومؤتمر باريس",
-    "AuthorID": "96490975",
-    "AuthorNam": "محمد مصطفى صفوت",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1380MuhammadMustafaSafwat.MasalaSharqiyya.Hindawi64731631
+#META# Tags: history
+#META# ID: 64731631
+#META# Title: المسألة الشرقية ومؤتمر باريس
+#META# AuthorID: 96490975
+#META# Author: محمد مصطفى صفوت
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383MuhammadSacidCaryan.CalaBabZuwayla.Hindawi50846838",
-    "BookCats": "novels :: history",
-    "BookID": "50846838",
-    "BookTitle": "على باب زويلة",
-    "AuthorID": "61380386",
-    "AuthorNam": "محمد سعيد العريان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383MuhammadSacidCaryan.CalaBabZuwayla.Hindawi50846838
+#META# Tags: novels :: history
+#META# ID: 50846838
+#META# Title: على باب زويلة
+#META# AuthorID: 61380386
+#META# Author: محمد سعيد العريان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

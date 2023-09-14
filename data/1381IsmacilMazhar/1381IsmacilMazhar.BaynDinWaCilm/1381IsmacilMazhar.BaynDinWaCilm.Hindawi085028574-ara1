@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381IsmacilMazhar.BaynDinWaCilm.Hindawi85028574",
-    "BookCats": "philosophy :: history",
-    "BookID": "85028574",
-    "BookTitle": "بين الدين والعلم: تاريخ الصراع بينهما في القرون الوسطى إزاء علوم الفلك والجغرافيا والنشوء",
-    "AuthorID": "37402092",
-    "AuthorNam": "أندرو ديكسون وايت",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "53973639",
-    "TranslNam": "إسماعيل مظهر",
-    "BookRel": "1336AndrewDicksonWhite.WarfareOfScience (TRANSL)"
-}
-
+#META# URI: 1381IsmacilMazhar.BaynDinWaCilm.Hindawi85028574
+#META# Tags: philosophy :: history
+#META# ID: 85028574
+#META# Title: بين الدين والعلم: تاريخ الصراع بينهما في القرون الوسطى إزاء علوم الفلك والجغرافيا والنشوء
+#META# AuthorID: 37402092
+#META# Author: أندرو ديكسون وايت
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 53973639
+#META# Translator: إسماعيل مظهر
+#META# Related_books: 1336AndrewDicksonWhite.WarfareOfScience (TRANSL)
 
 #META#Header#End#
 

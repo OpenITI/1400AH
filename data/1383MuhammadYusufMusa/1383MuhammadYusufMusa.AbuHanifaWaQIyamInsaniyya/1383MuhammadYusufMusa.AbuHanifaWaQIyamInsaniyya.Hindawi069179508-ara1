@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383MuhammadYusufMusa.AbuHanifaWaQIyamInsaniyya.Hindawi69179508",
-    "BookCats": "biographies",
-    "BookID": "69179508",
-    "BookTitle": "أبو حنيفة والقيم الإنسانية في مذهبه",
-    "AuthorID": "69426913",
-    "AuthorNam": "محمد يوسف موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383MuhammadYusufMusa.AbuHanifaWaQIyamInsaniyya.Hindawi69179508
+#META# Tags: biographies
+#META# ID: 69179508
+#META# Title: أبو حنيفة والقيم الإنسانية في مذهبه
+#META# AuthorID: 69426913
+#META# Author: محمد يوسف موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

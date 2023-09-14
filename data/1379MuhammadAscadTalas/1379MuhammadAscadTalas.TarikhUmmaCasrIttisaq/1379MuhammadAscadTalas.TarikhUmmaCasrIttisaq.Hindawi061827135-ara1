@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379MuhammadAscadTalas.TarikhUmmaCasrIttisaq.Hindawi61827135",
-    "BookCats": "history",
-    "BookID": "61827135",
-    "BookTitle": "عصر الاتساق: تاريخ الأمة العربية (الجزء الرابع)",
-    "AuthorID": "35030937",
-    "AuthorNam": "محمد أسعد طلس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379MuhammadAscadTalas.TarikhUmmaCasrIttisaq.Hindawi61827135
+#META# Tags: history
+#META# ID: 61827135
+#META# Title: عصر الاتساق: تاريخ الأمة العربية (الجزء الرابع)
+#META# AuthorID: 35030937
+#META# Author: محمد أسعد طلس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

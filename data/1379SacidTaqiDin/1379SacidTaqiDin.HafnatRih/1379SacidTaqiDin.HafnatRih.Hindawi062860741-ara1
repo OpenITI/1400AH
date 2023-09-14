@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379SacidTaqiDin.HafnatRih.Hindawi62860741",
-    "BookCats": "plays",
-    "BookID": "62860741",
-    "BookTitle": "حفنة ريح",
-    "AuthorID": "35727531",
-    "AuthorNam": "سعيد تقي الدين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379SacidTaqiDin.HafnatRih.Hindawi62860741
+#META# Tags: plays
+#META# ID: 62860741
+#META# Title: حفنة ريح
+#META# AuthorID: 35727531
+#META# Author: سعيد تقي الدين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

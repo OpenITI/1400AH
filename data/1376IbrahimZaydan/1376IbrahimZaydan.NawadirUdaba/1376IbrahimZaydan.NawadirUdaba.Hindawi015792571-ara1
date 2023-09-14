@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376IbrahimZaydan.NawadirUdaba.Hindawi15792571",
-    "BookCats": "literature",
-    "BookID": "15792571",
-    "BookTitle": "نوادر الأدباء",
-    "AuthorID": "50824950",
-    "AuthorNam": "إبراهيم زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376IbrahimZaydan.NawadirUdaba.Hindawi15792571
+#META# Tags: literature
+#META# ID: 15792571
+#META# Title: نوادر الأدباء
+#META# AuthorID: 50824950
+#META# Author: إبراهيم زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

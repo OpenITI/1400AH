@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.NizamAtiniyyin.Hindawi46383536",
-    "BookCats": "politics :: history",
-    "BookID": "46383536",
-    "BookTitle": "نظام الأتينيين",
-    "AuthorID": "91624246",
-    "AuthorNam": "أرسطوطاليس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "59624258",
-    "TranslNam": "طه حسين",
-    "BookRel": "0001Aristotle.AthenaionPoliteia (TRANSL)"
-}
-
+#META# URI: 1392TahaHusayn.NizamAtiniyyin.Hindawi46383536
+#META# Tags: politics :: history
+#META# ID: 46383536
+#META# Title: نظام الأتينيين
+#META# AuthorID: 91624246
+#META# Author: أرسطوطاليس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 59624258
+#META# Translator: طه حسين
+#META# Related_books: 0001Aristotle.AthenaionPoliteia (TRANSL)
 
 #META#Header#End#
 

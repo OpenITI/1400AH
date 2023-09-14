@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1396RaifKhuri.FikrCarabiHafith.Hindawi83096496",
-    "BookCats": "history",
-    "BookID": "83096496",
-    "BookTitle": "الفكر العربي الحديث: أثر الثورة الفرنسية في توجيهه السياسي والاجتماعي",
-    "AuthorID": "64735270",
-    "AuthorNam": "رئيف خوري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1396RaifKhuri.FikrCarabiHafith.Hindawi83096496
+#META# Tags: history
+#META# ID: 83096496
+#META# Title: الفكر العربي الحديث: أثر الثورة الفرنسية في توجيهه السياسي والاجتماعي
+#META# AuthorID: 64735270
+#META# Author: رئيف خوري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

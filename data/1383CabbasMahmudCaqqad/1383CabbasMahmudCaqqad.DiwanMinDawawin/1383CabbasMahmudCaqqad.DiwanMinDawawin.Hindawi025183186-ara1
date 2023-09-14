@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.DiwanMinDawawin.Hindawi25183186",
-    "BookCats": "poetry",
-    "BookID": "25183186",
-    "BookTitle": "ديوان من دواوين",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.DiwanMinDawawin.Hindawi25183186
+#META# Tags: poetry
+#META# ID: 25183186
+#META# Title: ديوان من دواوين
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

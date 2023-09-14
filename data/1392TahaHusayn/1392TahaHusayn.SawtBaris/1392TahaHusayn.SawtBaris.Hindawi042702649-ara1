@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.SawtBaris.Hindawi42702649",
-    "BookCats": "literature",
-    "BookID": "42702649",
-    "BookTitle": "صوت باريس",
-    "AuthorID": "59624258",
-    "AuthorNam": "طه حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.SawtBaris.Hindawi42702649
+#META# Tags: literature
+#META# ID: 42702649
+#META# Title: صوت باريس
+#META# AuthorID: 59624258
+#META# Author: طه حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

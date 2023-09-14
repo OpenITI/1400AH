@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.BaynaBayna.Hindawi14252850",
-    "BookCats": "literature",
-    "BookID": "14252850",
-    "BookTitle": "بين بين",
-    "AuthorID": "59624258",
-    "AuthorNam": "طه حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.BaynaBayna.Hindawi14252850
+#META# Tags: literature
+#META# ID: 14252850
+#META# Title: بين بين
+#META# AuthorID: 59624258
+#META# Author: طه حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CadilZucaytar.IbnSina.Hindawi49250841",
-    "BookCats": "biographies :: philosophy",
-    "BookID": "49250841",
-    "BookTitle": "ابن سينا",
-    "AuthorID": "47475703",
-    "AuthorNam": "برنارد كارا دو فو",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "61683526",
-    "TranslNam": "عادل زعيتر",
-    "BookRel": "1372BernardCarraDeVaux.Avicenne (TRANSL)"
-}
-
+#META# URI: 1377CadilZucaytar.IbnSina.Hindawi49250841
+#META# Tags: biographies :: philosophy
+#META# ID: 49250841
+#META# Title: ابن سينا
+#META# AuthorID: 47475703
+#META# Author: برنارد كارا دو فو
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 61683526
+#META# Translator: عادل زعيتر
+#META# Related_books: 1372BernardCarraDeVaux.Avicenne (TRANSL)
 
 #META#Header#End#
 

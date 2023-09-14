@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabbasHafiz.MudhakkiratPickwick.Hindawi71903071",
-    "BookCats": "novels",
-    "BookID": "71903071",
-    "BookTitle": "مذكرات بكوِك",
-    "AuthorID": "14791716",
-    "AuthorNam": "تشارلز ديكنز",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "74930641",
-    "TranslNam": "عباس حافظ",
-    "BookRel": "1286CharlesDickens.PickwickPapers (TRANSL)"
-}
-
+#META# URI: 1378CabbasHafiz.MudhakkiratPickwick.Hindawi71903071
+#META# Tags: novels
+#META# ID: 71903071
+#META# Title: مذكرات بكوِك
+#META# AuthorID: 14791716
+#META# Author: تشارلز ديكنز
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 74930641
+#META# Translator: عباس حافظ
+#META# Related_books: 1286CharlesDickens.PickwickPapers (TRANSL)
 
 #META#Header#End#
 

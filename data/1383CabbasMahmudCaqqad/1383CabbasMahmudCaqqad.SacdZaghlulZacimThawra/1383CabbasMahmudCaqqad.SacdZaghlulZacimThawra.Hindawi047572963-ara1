@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.SacdZaghlulZacimThawra.Hindawi47572963",
-    "BookCats": "biographies",
-    "BookID": "47572963",
-    "BookTitle": "سعد زغلول زعيم الثورة",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.SacdZaghlulZacimThawra.Hindawi47572963
+#META# Tags: biographies
+#META# ID: 47572963
+#META# Title: سعد زغلول زعيم الثورة
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

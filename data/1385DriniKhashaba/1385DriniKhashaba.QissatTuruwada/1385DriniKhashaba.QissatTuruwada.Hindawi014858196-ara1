@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385DriniKhashaba.QissatTuruwada.Hindawi14858196",
-    "BookCats": "literature :: history",
-    "BookID": "14858196",
-    "BookTitle": "قصة طروادة",
-    "AuthorID": "40468203",
-    "AuthorNam": "دريني خشبة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1385DriniKhashaba.QissatTuruwada.Hindawi14858196
+#META# Tags: literature :: history
+#META# ID: 14858196
+#META# Title: قصة طروادة
+#META# AuthorID: 40468203
+#META# Author: دريني خشبة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1382TahaCabdBaqiSurur.IbnCarabi.Hindawi24957531",
-    "BookCats": "biographies",
-    "BookID": "24957531",
-    "BookTitle": "محيي الدين بن عربي",
-    "AuthorID": "13753183",
-    "AuthorNam": "طه عبد الباقي سرور",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1382TahaCabdBaqiSurur.IbnCarabi.Hindawi24957531
+#META# Tags: biographies
+#META# ID: 24957531
+#META# Title: محيي الدين بن عربي
+#META# AuthorID: 13753183
+#META# Author: طه عبد الباقي سرور
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

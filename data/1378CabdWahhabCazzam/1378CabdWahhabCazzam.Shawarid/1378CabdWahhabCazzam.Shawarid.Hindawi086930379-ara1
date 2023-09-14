@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabdWahhabCazzam.Shawarid.Hindawi86930379",
-    "BookCats": "literature",
-    "BookID": "86930379",
-    "BookTitle": "الشوارد",
-    "AuthorID": "24138681",
-    "AuthorNam": "عبد الوهاب عزام",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378CabdWahhabCazzam.Shawarid.Hindawi86930379
+#META# Tags: literature
+#META# ID: 86930379
+#META# Title: الشوارد
+#META# AuthorID: 24138681
+#META# Author: عبد الوهاب عزام
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

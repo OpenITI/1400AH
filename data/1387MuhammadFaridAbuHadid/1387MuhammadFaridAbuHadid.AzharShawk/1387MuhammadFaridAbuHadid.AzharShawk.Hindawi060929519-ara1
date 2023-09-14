@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1387MuhammadFaridAbuHadid.AzharShawk.Hindawi60929519",
-    "BookCats": "novels",
-    "BookID": "60929519",
-    "BookTitle": "أزهار الشوك",
-    "AuthorID": "41796395",
-    "AuthorNam": "محمد فريد أبو حديد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1387MuhammadFaridAbuHadid.AzharShawk.Hindawi60929519
+#META# Tags: novels
+#META# ID: 60929519
+#META# Title: أزهار الشوك
+#META# AuthorID: 41796395
+#META# Author: محمد فريد أبو حديد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

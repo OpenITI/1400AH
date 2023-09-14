@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380MuhammadKamilHusayn.TashayyucFiShicrMisri.Hindawi42972626",
-    "BookCats": "literary.criticism",
-    "BookID": "42972626",
-    "BookTitle": "التشيع في الشعر المصري في عصر الأيوبيين والمماليك",
-    "AuthorID": "40602736",
-    "AuthorNam": "محمد كامل حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1380MuhammadKamilHusayn.TashayyucFiShicrMisri.Hindawi42972626
+#META# Tags: literary.criticism
+#META# ID: 42972626
+#META# Title: التشيع في الشعر المصري في عصر الأيوبيين والمماليك
+#META# AuthorID: 40602736
+#META# Author: محمد كامل حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

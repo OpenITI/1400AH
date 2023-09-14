@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379SacidTaqiDin.NukhabCaduw.Hindawi81517515",
-    "BookCats": "plays",
-    "BookID": "81517515",
-    "BookTitle": "نخب العدو",
-    "AuthorID": "35727531",
-    "AuthorNam": "سعيد تقي الدين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379SacidTaqiDin.NukhabCaduw.Hindawi81517515
+#META# Tags: plays
+#META# ID: 81517515
+#META# Title: نخب العدو
+#META# AuthorID: 35727531
+#META# Author: سعيد تقي الدين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

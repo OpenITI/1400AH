@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383MuhammadSacidCaryan.ShajaratDurr.Hindawi69242916",
-    "BookCats": "novels",
-    "BookID": "69242916",
-    "BookTitle": "شجرة الدر: قصة تاريخية",
-    "AuthorID": "61380386",
-    "AuthorNam": "محمد سعيد العريان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383MuhammadSacidCaryan.ShajaratDurr.Hindawi69242916
+#META# Tags: novels
+#META# ID: 69242916
+#META# Title: شجرة الدر: قصة تاريخية
+#META# AuthorID: 61380386
+#META# Author: محمد سعيد العريان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

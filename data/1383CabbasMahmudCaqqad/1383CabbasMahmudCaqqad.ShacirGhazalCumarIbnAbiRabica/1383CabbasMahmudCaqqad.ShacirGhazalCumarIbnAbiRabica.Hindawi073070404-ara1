@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.ShacirGhazalCumarIbnAbiRabica.Hindawi73070404",
-    "BookCats": "biographies :: literary.criticism",
-    "BookID": "73070404",
-    "BookTitle": "شاعر الغزل عمر بن أبي ربيعة",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.ShacirGhazalCumarIbnAbiRabica.Hindawi73070404
+#META# Tags: biographies :: literary.criticism
+#META# ID: 73070404
+#META# Title: شاعر الغزل عمر بن أبي ربيعة
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

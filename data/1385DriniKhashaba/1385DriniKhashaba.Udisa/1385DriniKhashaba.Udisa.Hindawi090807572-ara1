@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385DriniKhashaba.Udisa.Hindawi90807572",
-    "BookCats": "literature",
-    "BookID": "90807572",
-    "BookTitle": "الأوديسة:  لشاعر الخلود هوميروس",
-    "AuthorID": "40468203",
-    "AuthorNam": "دريني خشبة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1385DriniKhashaba.Udisa.Hindawi90807572
+#META# Tags: literature
+#META# ID: 90807572
+#META# Title: الأوديسة:  لشاعر الخلود هوميروس
+#META# AuthorID: 40468203
+#META# Author: دريني خشبة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377NiqulaFayad.RafifUqhuwan.Hindawi17938190",
-    "BookCats": "poetry",
-    "BookID": "17938190",
-    "BookTitle": "رفيف الأقحوان",
-    "AuthorID": "79141535",
-    "AuthorNam": "نِقولا فياض",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377NiqulaFayad.RafifUqhuwan.Hindawi17938190
+#META# Tags: poetry
+#META# ID: 17938190
+#META# Title: رفيف الأقحوان
+#META# AuthorID: 79141535
+#META# Author: نِقولا فياض
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

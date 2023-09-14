@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1387MuhammadFaridAbuHadid.KhusrawWaShirin.Hindawi26915292",
-    "BookCats": "plays",
-    "BookID": "26915292",
-    "BookTitle": "خسرو وشيرين",
-    "AuthorID": "41796395",
-    "AuthorNam": "محمد فريد أبو حديد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1387MuhammadFaridAbuHadid.KhusrawWaShirin.Hindawi26915292
+#META# Tags: plays
+#META# ID: 26915292
+#META# Title: خسرو وشيرين
+#META# AuthorID: 41796395
+#META# Author: محمد فريد أبو حديد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

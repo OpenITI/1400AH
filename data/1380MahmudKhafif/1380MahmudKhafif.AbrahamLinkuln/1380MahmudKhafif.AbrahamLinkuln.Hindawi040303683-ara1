@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380MahmudKhafif.AbrahamLinkuln.Hindawi40303683",
-    "BookCats": "biographies :: history",
-    "BookID": "40303683",
-    "BookTitle": "أبراهام لنكولن",
-    "AuthorID": "40919408",
-    "AuthorNam": "محمود الخفيف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1380MahmudKhafif.AbrahamLinkuln.Hindawi40303683
+#META# Tags: biographies :: history
+#META# ID: 40303683
+#META# Title: أبراهام لنكولن
+#META# AuthorID: 40919408
+#META# Author: محمود الخفيف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

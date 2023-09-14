@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381IsmacilMazhar.FalsafatLadhdhaWaAlam.Hindawi51619626",
-    "BookCats": "philosophy",
-    "BookID": "51619626",
-    "BookTitle": "فلسفة اللذة والألم",
-    "AuthorID": "53973639",
-    "AuthorNam": "إسماعيل مظهر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381IsmacilMazhar.FalsafatLadhdhaWaAlam.Hindawi51619626
+#META# Tags: philosophy
+#META# ID: 51619626
+#META# Title: فلسفة اللذة والألم
+#META# AuthorID: 53973639
+#META# Author: إسماعيل مظهر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

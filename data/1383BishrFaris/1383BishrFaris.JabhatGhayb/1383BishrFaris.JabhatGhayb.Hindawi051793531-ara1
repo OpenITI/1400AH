@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383BishrFaris.JabhatGhayb.Hindawi51793531",
-    "BookCats": "plays",
-    "BookID": "51793531",
-    "BookTitle": "جبهة الغيب: أحدوثة شرقية في خمس مراحل",
-    "AuthorID": "59095370",
-    "AuthorNam": "بشر فارس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383BishrFaris.JabhatGhayb.Hindawi51793531
+#META# Tags: plays
+#META# ID: 51793531
+#META# Title: جبهة الغيب: أحدوثة شرقية في خمس مراحل
+#META# AuthorID: 59095370
+#META# Author: بشر فارس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

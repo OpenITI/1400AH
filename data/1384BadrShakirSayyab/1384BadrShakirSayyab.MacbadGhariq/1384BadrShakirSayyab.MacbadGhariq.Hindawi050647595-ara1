@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1384BadrShakirSayyab.MacbadGhariq.Hindawi50647595",
-    "BookCats": "poetry",
-    "BookID": "50647595",
-    "BookTitle": "المعبد الغريق",
-    "AuthorID": "17520516",
-    "AuthorNam": "بدر شاكر السياب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1384BadrShakirSayyab.MacbadGhariq.Hindawi50647595
+#META# Tags: poetry
+#META# ID: 50647595
+#META# Title: المعبد الغريق
+#META# AuthorID: 17520516
+#META# Author: بدر شاكر السياب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

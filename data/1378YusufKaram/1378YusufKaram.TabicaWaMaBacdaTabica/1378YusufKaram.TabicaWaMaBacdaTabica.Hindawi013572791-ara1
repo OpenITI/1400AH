@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378YusufKaram.TabicaWaMaBacdaTabica.Hindawi13572791",
-    "BookCats": "philosophy",
-    "BookID": "13572791",
-    "BookTitle": "الطبيعة وما بعد الطبيعة: المادة . الحياة . الله",
-    "AuthorID": "15207908",
-    "AuthorNam": "يوسف كرم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378YusufKaram.TabicaWaMaBacdaTabica.Hindawi13572791
+#META# Tags: philosophy
+#META# ID: 13572791
+#META# Title: الطبيعة وما بعد الطبيعة: المادة . الحياة . الله
+#META# AuthorID: 15207908
+#META# Author: يوسف كرم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

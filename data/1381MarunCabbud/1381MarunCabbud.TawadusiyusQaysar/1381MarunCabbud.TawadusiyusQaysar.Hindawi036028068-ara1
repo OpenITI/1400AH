@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MarunCabbud.TawadusiyusQaysar.Hindawi36028068",
-    "BookCats": "plays",
-    "BookID": "36028068",
-    "BookTitle": "توادوسيوس قيصر: مأساة تاريخية تمثيلية ذات ثلاثة فصول",
-    "AuthorID": "36051407",
-    "AuthorNam": "مارون عبود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381MarunCabbud.TawadusiyusQaysar.Hindawi36028068
+#META# Tags: plays
+#META# ID: 36028068
+#META# Title: توادوسيوس قيصر: مأساة تاريخية تمثيلية ذات ثلاثة فصول
+#META# AuthorID: 36051407
+#META# Author: مارون عبود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

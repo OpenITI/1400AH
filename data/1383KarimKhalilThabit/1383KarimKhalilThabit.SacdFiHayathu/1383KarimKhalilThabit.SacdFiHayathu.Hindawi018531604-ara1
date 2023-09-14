@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383KarimKhalilThabit.SacdFiHayathu.Hindawi18531604",
-    "BookCats": "biographies :: history",
-    "BookID": "18531604",
-    "BookTitle": "سعد في حياته الخاصة",
-    "AuthorID": "16418136",
-    "AuthorNam": "كريم خليل ثابت",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383KarimKhalilThabit.SacdFiHayathu.Hindawi18531604
+#META# Tags: biographies :: history
+#META# ID: 18531604
+#META# Title: سعد في حياته الخاصة
+#META# AuthorID: 16418136
+#META# Author: كريم خليل ثابت
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

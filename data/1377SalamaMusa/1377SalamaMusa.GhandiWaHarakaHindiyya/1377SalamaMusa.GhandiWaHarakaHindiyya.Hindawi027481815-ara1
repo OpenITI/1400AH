@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.GhandiWaHarakaHindiyya.Hindawi27481815",
-    "BookCats": "history",
-    "BookID": "27481815",
-    "BookTitle": "غاندي والحركة الهندية",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.GhandiWaHarakaHindiyya.Hindawi27481815
+#META# Tags: history
+#META# ID: 27481815
+#META# Title: غاندي والحركة الهندية
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

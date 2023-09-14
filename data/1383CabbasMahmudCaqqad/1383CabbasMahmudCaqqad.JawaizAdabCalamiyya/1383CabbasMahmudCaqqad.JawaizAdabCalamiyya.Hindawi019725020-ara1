@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.JawaizAdabCalamiyya.Hindawi19725020",
-    "BookCats": "literature",
-    "BookID": "19725020",
-    "BookTitle": "جوائز الأدب العالمية: مَثَل من جائزة نوبل",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.JawaizAdabCalamiyya.Hindawi19725020
+#META# Tags: literature
+#META# ID: 19725020
+#META# Title: جوائز الأدب العالمية: مَثَل من جائزة نوبل
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

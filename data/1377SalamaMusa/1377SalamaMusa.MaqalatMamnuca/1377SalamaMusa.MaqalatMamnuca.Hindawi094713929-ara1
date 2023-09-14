@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.MaqalatMamnuca.Hindawi94713929",
-    "BookCats": "literature",
-    "BookID": "94713929",
-    "BookTitle": "مقالات ممنوعة",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.MaqalatMamnuca.Hindawi94713929
+#META# Tags: literature
+#META# ID: 94713929
+#META# Title: مقالات ممنوعة
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

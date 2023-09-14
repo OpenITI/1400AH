@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383MuhammadSacidCaryan.HayatRafici.Hindawi86820252",
-    "BookCats": "biographies",
-    "BookID": "86820252",
-    "BookTitle": "حياة الرافعي",
-    "AuthorID": "61380386",
-    "AuthorNam": "محمد سعيد العريان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383MuhammadSacidCaryan.HayatRafici.Hindawi86820252
+#META# Tags: biographies
+#META# ID: 86820252
+#META# Title: حياة الرافعي
+#META# AuthorID: 61380386
+#META# Author: محمد سعيد العريان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

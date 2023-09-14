@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1387JamalDinShayyal.HarakatIslahiyya.Hindawi97183585",
-    "BookCats": "history",
-    "BookID": "97183585",
-    "BookTitle": "محاضرات عن الحركات الإصلاحية ومراكز الثقافة في الشرق الإسلامي الحديث",
-    "AuthorID": "18290715",
-    "AuthorNam": "جمال الدين الشيال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1387JamalDinShayyal.HarakatIslahiyya.Hindawi97183585
+#META# Tags: history
+#META# ID: 97183585
+#META# Title: محاضرات عن الحركات الإصلاحية ومراكز الثقافة في الشرق الإسلامي الحديث
+#META# AuthorID: 18290715
+#META# Author: جمال الدين الشيال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

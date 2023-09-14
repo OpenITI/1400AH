@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376ZakiMuhammadHasan.TaswirWaAclamMusawwirinFiIslam.Hindawi35028680",
-    "BookCats": "arts",
-    "BookID": "35028680",
-    "BookTitle": "التصوير وأعلام المصورين في الإسلام",
-    "AuthorID": "15169292",
-    "AuthorNam": "زكي محمد حسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376ZakiMuhammadHasan.TaswirWaAclamMusawwirinFiIslam.Hindawi35028680
+#META# Tags: arts
+#META# ID: 35028680
+#META# Title: التصوير وأعلام المصورين في الإسلام
+#META# AuthorID: 15169292
+#META# Author: زكي محمد حسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

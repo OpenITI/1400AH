@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1386CabdRahmanRafici.ShucaraWataniyya.Hindawi94053925",
-    "BookCats": "history :: poetry",
-    "BookID": "94053925",
-    "BookTitle": "شعراء الوطنية",
-    "AuthorID": "35064136",
-    "AuthorNam": "عبد الرحمن الرافعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1386CabdRahmanRafici.ShucaraWataniyya.Hindawi94053925
+#META# Tags: history :: poetry
+#META# ID: 94053925
+#META# Title: شعراء الوطنية
+#META# AuthorID: 35064136
+#META# Author: عبد الرحمن الرافعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

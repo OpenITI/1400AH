@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.IslamWaHadaraInsaniyya.Hindawi13920718",
-    "BookCats": "history",
-    "BookID": "13920718",
-    "BookTitle": "الإسلام والحضارة الإنسانية",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.IslamWaHadaraInsaniyya.Hindawi13920718
+#META# Tags: history
+#META# ID: 13920718
+#META# Title: الإسلام والحضارة الإنسانية
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

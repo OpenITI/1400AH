@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1384MahmudTahirHaqqi.CadhraDinshaway.Hindawi83940694",
-    "BookCats": "novels",
-    "BookID": "83940694",
-    "BookTitle": "عذراء دنشواي",
-    "AuthorID": "73826370",
-    "AuthorNam": "محمود طاهر حقي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1384MahmudTahirHaqqi.CadhraDinshaway.Hindawi83940694
+#META# Tags: novels
+#META# ID: 83940694
+#META# Title: عذراء دنشواي
+#META# AuthorID: 73826370
+#META# Author: محمود طاهر حقي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

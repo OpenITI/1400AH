@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.HayatMasih.Hindawi52082590",
-    "BookCats": "biographies",
-    "BookID": "52082590",
-    "BookTitle": "حياة المسيح: في التاريخ وكشوف العصر الحديث",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.HayatMasih.Hindawi52082590
+#META# Tags: biographies
+#META# ID: 52082590
+#META# Title: حياة المسيح: في التاريخ وكشوف العصر الحديث
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

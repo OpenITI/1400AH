@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MarunCabbud.AmirAhmar.Hindawi83157390",
-    "BookCats": "novels",
-    "BookID": "83157390",
-    "BookTitle": "الأمير الأحمر: قصة لبنانية",
-    "AuthorID": "36051407",
-    "AuthorNam": "مارون عبود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381MarunCabbud.AmirAhmar.Hindawi83157390
+#META# Tags: novels
+#META# ID: 83157390
+#META# Title: الأمير الأحمر: قصة لبنانية
+#META# AuthorID: 36051407
+#META# Author: مارون عبود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

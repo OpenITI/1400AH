@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.IbnRumi.Hindawi38697931",
-    "BookCats": "biographies :: literary.criticism",
-    "BookID": "38697931",
-    "BookTitle": "ابن الرومي: حياته من شعره",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.IbnRumi.Hindawi38697931
+#META# Tags: biographies :: literary.criticism
+#META# ID: 38697931
+#META# Title: ابن الرومي: حياته من شعره
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

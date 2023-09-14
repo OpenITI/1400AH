@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1384MuhammadMandur.FannShicr.Hindawi53803853",
-    "BookCats": "literature",
-    "BookID": "53803853",
-    "BookTitle": "فن الشعر",
-    "AuthorID": "27181903",
-    "AuthorNam": "محمد مندور",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1384MuhammadMandur.FannShicr.Hindawi53803853
+#META# Tags: literature
+#META# ID: 53803853
+#META# Title: فن الشعر
+#META# AuthorID: 27181903
+#META# Author: محمد مندور
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

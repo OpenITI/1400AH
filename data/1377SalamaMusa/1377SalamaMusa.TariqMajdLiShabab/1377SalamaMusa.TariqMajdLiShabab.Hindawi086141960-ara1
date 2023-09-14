@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.TariqMajdLiShabab.Hindawi86141960",
-    "BookCats": "literature",
-    "BookID": "86141960",
-    "BookTitle": "طريق المجد للشباب",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.TariqMajdLiShabab.Hindawi86141960
+#META# Tags: literature
+#META# ID: 86141960
+#META# Title: طريق المجد للشباب
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

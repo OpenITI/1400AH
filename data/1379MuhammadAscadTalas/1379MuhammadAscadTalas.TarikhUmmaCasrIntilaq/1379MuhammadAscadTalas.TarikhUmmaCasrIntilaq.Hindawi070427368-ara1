@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379MuhammadAscadTalas.TarikhUmmaCasrIntilaq.Hindawi70427368",
-    "BookCats": "history",
-    "BookID": "70427368",
-    "BookTitle": "عصر الانطلاق: تاريخ الأمة العربية (الجزء الثاني)",
-    "AuthorID": "35030937",
-    "AuthorNam": "محمد أسعد طلس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379MuhammadAscadTalas.TarikhUmmaCasrIntilaq.Hindawi70427368
+#META# Tags: history
+#META# ID: 70427368
+#META# Title: عصر الانطلاق: تاريخ الأمة العربية (الجزء الثاني)
+#META# AuthorID: 35030937
+#META# Author: محمد أسعد طلس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

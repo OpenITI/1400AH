@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377MuhammadCabdAllahDarraz.KalimatFiMabadiCilmAkhlaq.Hindawi97931846",
-    "BookCats": "philosophy",
-    "BookID": "97931846",
-    "BookTitle": "كلمات في مبادئ علم الأخلاق",
-    "AuthorID": "97504926",
-    "AuthorNam": "محمد عبد الله دراز",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377MuhammadCabdAllahDarraz.KalimatFiMabadiCilmAkhlaq.Hindawi97931846
+#META# Tags: philosophy
+#META# ID: 97931846
+#META# Title: كلمات في مبادئ علم الأخلاق
+#META# AuthorID: 97504926
+#META# Author: محمد عبد الله دراز
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

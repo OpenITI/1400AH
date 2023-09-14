@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377NiqulaFayad.DunyaWaAdyan.Hindawi39179574",
-    "BookCats": "philosophy",
-    "BookID": "39179574",
-    "BookTitle": "دنيا وأديان",
-    "AuthorID": "79141535",
-    "AuthorNam": "نِقولا فياض",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377NiqulaFayad.DunyaWaAdyan.Hindawi39179574
+#META# Tags: philosophy
+#META# ID: 39179574
+#META# Title: دنيا وأديان
+#META# AuthorID: 79141535
+#META# Author: نِقولا فياض
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MarunCabbud.BayrutWaLubnan.Hindawi83970509",
-    "BookCats": "travel.literature :: history",
-    "BookID": "83970509",
-    "BookTitle": "بيروت ولبنان منذ قرن ونصف القرن",
-    "AuthorID": "46142581",
-    "AuthorNam": "هنري غيز",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "36051407",
-    "TranslNam": "مارون عبود",
-    "BookRel": "1295HenriGuys.BeyroutEtLubnan (TRANSL)"
-}
-
+#META# URI: 1381MarunCabbud.BayrutWaLubnan.Hindawi83970509
+#META# Tags: travel.literature :: history
+#META# ID: 83970509
+#META# Title: بيروت ولبنان منذ قرن ونصف القرن
+#META# AuthorID: 46142581
+#META# Author: هنري غيز
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 36051407
+#META# Translator: مارون عبود
+#META# Related_books: 1295HenriGuys.BeyroutEtLubnan (TRANSL)
 
 #META#Header#End#
 

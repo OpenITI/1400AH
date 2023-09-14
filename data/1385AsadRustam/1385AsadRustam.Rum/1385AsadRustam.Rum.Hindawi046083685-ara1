@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385AsadRustam.Rum.Hindawi46083685",
-    "BookCats": "history",
-    "BookID": "46083685",
-    "BookTitle": "الروم: في سياستهم، وحضارتهم، ودينهم، وثقافتهم، وصلاتهم بالعرب",
-    "AuthorID": "96461919",
-    "AuthorNam": "أسد رستم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1385AsadRustam.Rum.Hindawi46083685
+#META# Tags: history
+#META# ID: 46083685
+#META# Title: الروم: في سياستهم، وحضارتهم، ودينهم، وثقافتهم، وصلاتهم بالعرب
+#META# AuthorID: 96461919
+#META# Author: أسد رستم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

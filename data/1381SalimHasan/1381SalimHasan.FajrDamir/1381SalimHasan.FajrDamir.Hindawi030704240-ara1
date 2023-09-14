@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381SalimHasan.FajrDamir.Hindawi30704240",
-    "BookCats": "history",
-    "BookID": "30704240",
-    "BookTitle": "فجر الضمير",
-    "AuthorID": "51859046",
-    "AuthorNam": "جيمس هنري برستيد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "60304038",
-    "TranslNam": "سليم حسن",
-    "BookRel": "1351JamesHenryBreasted.DawnOfConscience (TRANSL)"
-}
-
+#META# URI: 1381SalimHasan.FajrDamir.Hindawi30704240
+#META# Tags: history
+#META# ID: 30704240
+#META# Title: فجر الضمير
+#META# AuthorID: 51859046
+#META# Author: جيمس هنري برستيد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 60304038
+#META# Translator: سليم حسن
+#META# Related_books: 1351JamesHenryBreasted.DawnOfConscience (TRANSL)
 
 #META#Header#End#
 

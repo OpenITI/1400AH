@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.MinAdabTamthilGharbi.Hindawi30525258",
-    "BookCats": "literature",
-    "BookID": "30525258",
-    "BookTitle": "من أدب التمثيل الغربي",
-    "AuthorID": "59624258",
-    "AuthorNam": "طه حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.MinAdabTamthilGharbi.Hindawi30525258
+#META# Tags: literature
+#META# ID: 30525258
+#META# Title: من أدب التمثيل الغربي
+#META# AuthorID: 59624258
+#META# Author: طه حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.AdabLiShacb.Hindawi50539692",
-    "BookCats": "literary.criticism :: literature",
-    "BookID": "50539692",
-    "BookTitle": "الأدب للشعب",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.AdabLiShacb.Hindawi50539692
+#META# Tags: literary.criticism :: literature
+#META# ID: 50539692
+#META# Title: الأدب للشعب
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

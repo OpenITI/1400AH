@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CadilZucaytar.Candide.Hindawi72073684",
-    "BookCats": "philosophy :: novels",
-    "BookID": "72073684",
-    "BookTitle": "كنديد",
-    "AuthorID": "70507046",
-    "AuthorNam": "فولتير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "61683526",
-    "TranslNam": "عادل زعيتر",
-    "BookRel": "1192Voltaire.Candide (TRANSL)"
-}
-
+#META# URI: 1377CadilZucaytar.Candide.Hindawi72073684
+#META# Tags: philosophy :: novels
+#META# ID: 72073684
+#META# Title: كنديد
+#META# AuthorID: 70507046
+#META# Author: فولتير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 61683526
+#META# Translator: عادل زعيتر
+#META# Related_books: 1192Voltaire.Candide (TRANSL)
 
 #META#Header#End#
 

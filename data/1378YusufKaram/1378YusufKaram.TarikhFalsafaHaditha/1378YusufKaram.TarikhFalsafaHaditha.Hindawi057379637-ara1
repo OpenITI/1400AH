@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378YusufKaram.TarikhFalsafaHaditha.Hindawi57379637",
-    "BookCats": "philosophy",
-    "BookID": "57379637",
-    "BookTitle": "تاريخ الفلسفة الحديثة",
-    "AuthorID": "15207908",
-    "AuthorNam": "يوسف كرم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378YusufKaram.TarikhFalsafaHaditha.Hindawi57379637
+#META# Tags: philosophy
+#META# ID: 57379637
+#META# Title: تاريخ الفلسفة الحديثة
+#META# AuthorID: 15207908
+#META# Author: يوسف كرم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

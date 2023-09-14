@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1387MuhammadFaridAbuHadid.WucaMarmari.Hindawi68024613",
-    "BookCats": "novels",
-    "BookID": "68024613",
-    "BookTitle": "الوعاء المرمري",
-    "AuthorID": "41796395",
-    "AuthorNam": "محمد فريد أبو حديد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1387MuhammadFaridAbuHadid.WucaMarmari.Hindawi68024613
+#META# Tags: novels
+#META# ID: 68024613
+#META# Title: الوعاء المرمري
+#META# AuthorID: 41796395
+#META# Author: محمد فريد أبو حديد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

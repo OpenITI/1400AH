@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376ZakiMuhammadHasan.MisrWaHadaraIslamiyya.Hindawi81590631",
-    "BookCats": "history",
-    "BookID": "81590631",
-    "BookTitle": "مصر والحضارة الإسلامية",
-    "AuthorID": "15169292",
-    "AuthorNam": "زكي محمد حسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376ZakiMuhammadHasan.MisrWaHadaraIslamiyya.Hindawi81590631
+#META# Tags: history
+#META# ID: 81590631
+#META# Title: مصر والحضارة الإسلامية
+#META# AuthorID: 15169292
+#META# Author: زكي محمد حسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

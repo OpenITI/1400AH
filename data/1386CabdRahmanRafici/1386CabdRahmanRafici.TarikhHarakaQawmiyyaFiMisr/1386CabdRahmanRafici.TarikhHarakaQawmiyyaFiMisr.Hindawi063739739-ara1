@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1386CabdRahmanRafici.TarikhHarakaQawmiyyaFiMisr.Hindawi63739739",
-    "BookCats": "history",
-    "BookID": "63739739",
-    "BookTitle": "تاريخ الحركة القومية في مصر القديمة: من فجر التاريخ إلى الفتح العربي",
-    "AuthorID": "35064136",
-    "AuthorNam": "عبد الرحمن الرافعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1386CabdRahmanRafici.TarikhHarakaQawmiyyaFiMisr.Hindawi63739739
+#META# Tags: history
+#META# ID: 63739739
+#META# Title: تاريخ الحركة القومية في مصر القديمة: من فجر التاريخ إلى الفتح العربي
+#META# AuthorID: 35064136
+#META# Author: عبد الرحمن الرافعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

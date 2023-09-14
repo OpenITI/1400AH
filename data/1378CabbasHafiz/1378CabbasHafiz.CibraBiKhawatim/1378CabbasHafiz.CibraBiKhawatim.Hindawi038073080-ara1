@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabbasHafiz.CibraBiKhawatim.Hindawi38073080",
-    "BookCats": "plays",
-    "BookID": "38073080",
-    "BookTitle": "العبرة بالخواتيم",
-    "AuthorID": "51483537",
-    "AuthorNam": "ويليام شكسبير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "74930641",
-    "TranslNam": "عباس حافظ",
-    "BookRel": "1024WilliamShakespeare.AllsWellThatEndsWell (TRANSL)"
-}
-
+#META# URI: 1378CabbasHafiz.CibraBiKhawatim.Hindawi38073080
+#META# Tags: plays
+#META# ID: 38073080
+#META# Title: العبرة بالخواتيم
+#META# AuthorID: 51483537
+#META# Author: ويليام شكسبير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 74930641
+#META# Translator: عباس حافظ
+#META# Related_books: 1024WilliamShakespeare.AllsWellThatEndsWell (TRANSL)
 
 #META#Header#End#
 

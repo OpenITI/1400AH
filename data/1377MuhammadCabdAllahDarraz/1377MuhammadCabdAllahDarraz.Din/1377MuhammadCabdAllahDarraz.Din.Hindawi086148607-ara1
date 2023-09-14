@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377MuhammadCabdAllahDarraz.Din.Hindawi86148607",
-    "BookCats": "philosophy",
-    "BookID": "86148607",
-    "BookTitle": "الدين: بحوث ممهدة لدراسة تاريخ الأديان",
-    "AuthorID": "97504926",
-    "AuthorNam": "محمد عبد الله دراز",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377MuhammadCabdAllahDarraz.Din.Hindawi86148607
+#META# Tags: philosophy
+#META# ID: 86148607
+#META# Title: الدين: بحوث ممهدة لدراسة تاريخ الأديان
+#META# AuthorID: 97504926
+#META# Author: محمد عبد الله دراز
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

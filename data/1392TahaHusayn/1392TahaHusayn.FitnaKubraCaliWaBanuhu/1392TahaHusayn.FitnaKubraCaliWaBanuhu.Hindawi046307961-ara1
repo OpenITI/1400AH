@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.FitnaKubra2CaliWaBanuhu.Hindawi46307961",
-    "BookCats": "history",
-    "BookID": "46307961",
-    "BookTitle": "الفتنة الكبرى (الجزء الثاني): علي وبنوه",
-    "AuthorID": "59624258",
-    "AuthorNam": "طه حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.FitnaKubra2CaliWaBanuhu.Hindawi46307961
+#META# Tags: history
+#META# ID: 46307961
+#META# Title: الفتنة الكبرى (الجزء الثاني): علي وبنوه
+#META# AuthorID: 59624258
+#META# Author: طه حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

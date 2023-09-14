@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.DirasatFiMadhahibAdabiyyaWaIjtimaciyya.Hindawi80940683",
-    "BookCats": "literature",
-    "BookID": "80940683",
-    "BookTitle": "دراسات في المذاهب الأدبية والاجتماعية",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.DirasatFiMadhahibAdabiyyaWaIjtimaciyya.Hindawi80940683
+#META# Tags: literature
+#META# ID: 80940683
+#META# Title: دراسات في المذاهب الأدبية والاجتماعية
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

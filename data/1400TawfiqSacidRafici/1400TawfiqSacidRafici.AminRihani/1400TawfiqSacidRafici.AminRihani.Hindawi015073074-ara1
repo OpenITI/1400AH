@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1400TawfiqSacidRafici.AminRihani.Hindawi15073074",
-    "BookCats": "biographies",
-    "BookID": "15073074",
-    "BookTitle": "أمين الريحاني: ناشر فلسفة الشرق في بلاد الغرب",
-    "AuthorID": "35157164",
-    "AuthorNam": "توفيق سعيد الرافعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1400TawfiqSacidRafici.AminRihani.Hindawi15073074
+#META# Tags: biographies
+#META# ID: 15073074
+#META# Title: أمين الريحاني: ناشر فلسفة الشرق في بلاد الغرب
+#META# AuthorID: 35157164
+#META# Author: توفيق سعيد الرافعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

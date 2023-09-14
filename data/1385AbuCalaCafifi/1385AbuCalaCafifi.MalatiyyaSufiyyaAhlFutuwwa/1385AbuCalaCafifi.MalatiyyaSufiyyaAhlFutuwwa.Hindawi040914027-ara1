@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385AbuCalaCafifi.MalatiyyaSufiyyaAhlFutuwwa.Hindawi40914027",
-    "BookCats": "philosophy",
-    "BookID": "40914027",
-    "BookTitle": "المَلامَتيَّة والصُّوفيَّة وأهل الفُتُوَّة",
-    "AuthorID": "94862085",
-    "AuthorNam": "أبو العلا عفيفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1385AbuCalaCafifi.MalatiyyaSufiyyaAhlFutuwwa.Hindawi40914027
+#META# Tags: philosophy
+#META# ID: 40914027
+#META# Title: المَلامَتيَّة والصُّوفيَّة وأهل الفُتُوَّة
+#META# AuthorID: 94862085
+#META# Author: أبو العلا عفيفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

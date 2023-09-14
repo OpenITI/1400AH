@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1382TahaCabdBaqiSurur.Hallaj.Hindawi92731807",
-    "BookCats": "biographies :: history",
-    "BookID": "92731807",
-    "BookTitle": "الحسين بن منصور الحلاج: شهيد التصوف الإسلامي (٢٤٤–٣٠٩ﻫ)",
-    "AuthorID": "13753183",
-    "AuthorNam": "طه عبد الباقي سرور",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1382TahaCabdBaqiSurur.Hallaj.Hindawi92731807
+#META# Tags: biographies :: history
+#META# ID: 92731807
+#META# Title: الحسين بن منصور الحلاج: شهيد التصوف الإسلامي (٢٤٤–٣٠٩ﻫ)
+#META# AuthorID: 13753183
+#META# Author: طه عبد الباقي سرور
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376CabdQadirMaghribi.JamalDinAfghani.Hindawi19369524",
-    "BookCats": "biographies :: history",
-    "BookID": "19369524",
-    "BookTitle": "جمال الدين الأفغاني : ذكريات وأحاديث",
-    "AuthorID": "79246958",
-    "AuthorNam": "عبد القادر المغربي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376CabdQadirMaghribi.JamalDinAfghani.Hindawi19369524
+#META# Tags: biographies :: history
+#META# ID: 19369524
+#META# Title: جمال الدين الأفغاني : ذكريات وأحاديث
+#META# AuthorID: 79246958
+#META# Author: عبد القادر المغربي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

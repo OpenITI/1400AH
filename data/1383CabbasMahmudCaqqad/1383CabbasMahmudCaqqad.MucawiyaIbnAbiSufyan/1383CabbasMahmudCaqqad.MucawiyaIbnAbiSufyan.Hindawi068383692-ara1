@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.MucawiyaIbnAbiSufyan.Hindawi68383692",
-    "BookCats": "biographies",
-    "BookID": "68383692",
-    "BookTitle": "معاوية بن أبي سفيان",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.MucawiyaIbnAbiSufyan.Hindawi68383692
+#META# Tags: biographies
+#META# ID: 68383692
+#META# Title: معاوية بن أبي سفيان
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.MinAdabTamthiliYunani.Hindawi82086961",
-    "BookCats": "plays",
-    "BookID": "82086961",
-    "BookTitle": "من الأدب التمثيلي اليوناني",
-    "AuthorID": "25795058",
-    "AuthorNam": "سوفوكليس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "59624258",
-    "TranslNam": "طه حسين",
-    "BookRel": "0001Sophocles (TRANSL)"
-}
-
+#META# URI: 1392TahaHusayn.MinAdabTamthiliYunani.Hindawi82086961
+#META# Tags: plays
+#META# ID: 82086961
+#META# Title: من الأدب التمثيلي اليوناني
+#META# AuthorID: 25795058
+#META# Author: سوفوكليس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 59624258
+#META# Translator: طه حسين
+#META# Related_books: 0001Sophocles (TRANSL)
 
 #META#Header#End#
 

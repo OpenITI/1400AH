@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376ZakiMuhammadHasan.KunuzFatimiyya.Hindawi41806905",
-    "BookCats": "arts :: history",
-    "BookID": "41806905",
-    "BookTitle": "الكنوز الفاطمية",
-    "AuthorID": "15169292",
-    "AuthorNam": "زكي محمد حسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376ZakiMuhammadHasan.KunuzFatimiyya.Hindawi41806905
+#META# Tags: arts :: history
+#META# ID: 41806905
+#META# Title: الكنوز الفاطمية
+#META# AuthorID: 15169292
+#META# Author: زكي محمد حسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.SihafaHirfaWaRisala.Hindawi50605797",
-    "BookCats": "literature",
-    "BookID": "50605797",
-    "BookTitle": "الصحافة حرفة ورسالة",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.SihafaHirfaWaRisala.Hindawi50605797
+#META# Tags: literature
+#META# ID: 50605797
+#META# Title: الصحافة حرفة ورسالة
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

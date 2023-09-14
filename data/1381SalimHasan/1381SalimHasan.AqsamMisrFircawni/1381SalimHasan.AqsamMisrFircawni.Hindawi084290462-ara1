@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381SalimHasan.AqsamMisrFircawni.Hindawi84290462",
-    "BookCats": "geography :: history",
-    "BookID": "84290462",
-    "BookTitle": "أقسام مصر الجغرافية في العهد الفرعوني",
-    "AuthorID": "60304038",
-    "AuthorNam": "سليم حسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381SalimHasan.AqsamMisrFircawni.Hindawi84290462
+#META# Tags: geography :: history
+#META# ID: 84290462
+#META# Title: أقسام مصر الجغرافية في العهد الفرعوني
+#META# AuthorID: 60304038
+#META# Author: سليم حسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

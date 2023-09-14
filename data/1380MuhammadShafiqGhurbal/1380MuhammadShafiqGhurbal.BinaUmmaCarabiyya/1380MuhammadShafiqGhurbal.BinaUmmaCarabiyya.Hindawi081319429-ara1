@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380MuhammadShafiqGhurbal.BinaUmmaCarabiyya.Hindawi81319429",
-    "BookCats": "history",
-    "BookID": "81319429",
-    "BookTitle": "منهاج مفصل لدروس في العوامل التاريخية في بناء الأمة العربية على ما هي عليه اليوم",
-    "AuthorID": "26391794",
-    "AuthorNam": "محمد شفيق غربال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1380MuhammadShafiqGhurbal.BinaUmmaCarabiyya.Hindawi81319429
+#META# Tags: history
+#META# ID: 81319429
+#META# Title: منهاج مفصل لدروس في العوامل التاريخية في بناء الأمة العربية على ما هي عليه اليوم
+#META# AuthorID: 26391794
+#META# Author: محمد شفيق غربال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

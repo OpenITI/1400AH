@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabdWahhabCazzam.Awabid.Hindawi13957902",
-    "BookCats": "literature",
-    "BookID": "13957902",
-    "BookTitle": "الأوابد",
-    "AuthorID": "24138681",
-    "AuthorNam": "عبد الوهاب عزام",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378CabdWahhabCazzam.Awabid.Hindawi13957902
+#META# Tags: literature
+#META# ID: 13957902
+#META# Title: الأوابد
+#META# AuthorID: 24138681
+#META# Author: عبد الوهاب عزام
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

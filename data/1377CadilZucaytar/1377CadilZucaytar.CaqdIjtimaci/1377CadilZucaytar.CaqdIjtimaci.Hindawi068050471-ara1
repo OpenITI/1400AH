@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CadilZucaytar.CaqdIjtimaci.Hindawi68050471",
-    "BookCats": "philosophy :: social.sciences",
-    "BookID": "68050471",
-    "BookTitle": "العقد الاجتماعي",
-    "AuthorID": "48639273",
-    "AuthorNam": "جان جاك روسو",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "61683526",
-    "TranslNam": "عادل زعيتر",
-    "BookRel": "1191JeanJacquesRousseau.ContractSocial (TRANSL)"
-}
-
+#META# URI: 1377CadilZucaytar.CaqdIjtimaci.Hindawi68050471
+#META# Tags: philosophy :: social.sciences
+#META# ID: 68050471
+#META# Title: العقد الاجتماعي
+#META# AuthorID: 48639273
+#META# Author: جان جاك روسو
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 61683526
+#META# Translator: عادل زعيتر
+#META# Related_books: 1191JeanJacquesRousseau.ContractSocial (TRANSL)
 
 #META#Header#End#
 

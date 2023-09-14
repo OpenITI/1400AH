@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379SacidTaqiDin.GhadanNaqfuluMadina.Hindawi52806305",
-    "BookCats": "literature",
-    "BookID": "52806305",
-    "BookTitle": "غدًا نقفل المدينة",
-    "AuthorID": "35727531",
-    "AuthorNam": "سعيد تقي الدين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379SacidTaqiDin.GhadanNaqfuluMadina.Hindawi52806305
+#META# Tags: literature
+#META# ID: 52806305
+#META# Title: غدًا نقفل المدينة
+#META# AuthorID: 35727531
+#META# Author: سعيد تقي الدين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

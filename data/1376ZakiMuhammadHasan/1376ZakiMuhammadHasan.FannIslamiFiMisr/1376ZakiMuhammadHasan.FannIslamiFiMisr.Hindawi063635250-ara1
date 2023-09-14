@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376ZakiMuhammadHasan.FannIslamiFiMisr.Hindawi63635250",
-    "BookCats": "arts",
-    "BookID": "63635250",
-    "BookTitle": "الفن الإسلامي في مصر: من الفتح العربي إلى نهاية العصر الطولوني",
-    "AuthorID": "15169292",
-    "AuthorNam": "زكي محمد حسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376ZakiMuhammadHasan.FannIslamiFiMisr.Hindawi63635250
+#META# Tags: arts
+#META# ID: 63635250
+#META# Title: الفن الإسلامي في مصر: من الفتح العربي إلى نهاية العصر الطولوني
+#META# AuthorID: 15169292
+#META# Author: زكي محمد حسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

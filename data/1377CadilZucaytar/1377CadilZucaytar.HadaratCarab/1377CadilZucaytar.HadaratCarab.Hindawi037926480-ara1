@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CadilZucaytar.HadaratCarab.Hindawi37926480",
-    "BookCats": "history",
-    "BookID": "37926480",
-    "BookTitle": "حضارة العرب",
-    "AuthorID": "41830681",
-    "AuthorNam": "غوستاف لوبون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "61683526",
-    "TranslNam": "عادل زعيتر",
-    "BookRel": "1349GustaveLeBon.CivilisationDesArabes (TRANSL)"
-}
-
+#META# URI: 1377CadilZucaytar.HadaratCarab.Hindawi37926480
+#META# Tags: history
+#META# ID: 37926480
+#META# Title: حضارة العرب
+#META# AuthorID: 41830681
+#META# Author: غوستاف لوبون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 61683526
+#META# Translator: عادل زعيتر
+#META# Related_books: 1349GustaveLeBon.CivilisationDesArabes (TRANSL)
 
 #META#Header#End#
 

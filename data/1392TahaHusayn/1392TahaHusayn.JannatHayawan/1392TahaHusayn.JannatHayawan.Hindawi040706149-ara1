@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.JannatHayawan.Hindawi40706149",
-    "BookCats": "novels",
-    "BookID": "40706149",
-    "BookTitle": "جنة الحيوان",
-    "AuthorID": "59624258",
-    "AuthorNam": "طه حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.JannatHayawan.Hindawi40706149
+#META# Tags: novels
+#META# ID: 40706149
+#META# Title: جنة الحيوان
+#META# AuthorID: 59624258
+#META# Author: طه حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

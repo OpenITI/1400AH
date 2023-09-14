@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377NiqulaFayad.HawlSarirImbiratur.Hindawi30483160",
-    "BookCats": "history :: biographies",
-    "BookID": "30483160",
-    "BookTitle": "حول سرير الإمبراطور",
-    "AuthorID": "79141535",
-    "AuthorNam": "نِقولا فياض",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377NiqulaFayad.HawlSarirImbiratur.Hindawi30483160
+#META# Tags: history :: biographies
+#META# ID: 30483160
+#META# Title: حول سرير الإمبراطور
+#META# AuthorID: 79141535
+#META# Author: نِقولا فياض
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

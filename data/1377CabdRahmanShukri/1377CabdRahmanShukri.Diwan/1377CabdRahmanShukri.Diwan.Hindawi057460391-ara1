@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CabdRahmanShukri.Diwan.Hindawi57460391",
-    "BookCats": "poetry",
-    "BookID": "57460391",
-    "BookTitle": "ديوان عبد الرحمن شكري",
-    "AuthorID": "57064917",
-    "AuthorNam": "عبد الرحمن شكري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377CabdRahmanShukri.Diwan.Hindawi57460391
+#META# Tags: poetry
+#META# ID: 57460391
+#META# Title: ديوان عبد الرحمن شكري
+#META# AuthorID: 57064917
+#META# Author: عبد الرحمن شكري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

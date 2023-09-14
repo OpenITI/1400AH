@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376KamilShannawi.ZucamaWaFananun.Hindawi49062575",
-    "BookCats": "literature",
-    "BookID": "49062575",
-    "BookTitle": "زعماء وفنانون وأدباء",
-    "AuthorID": "46049590",
-    "AuthorNam": "كامل الشناوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376KamilShannawi.ZucamaWaFananun.Hindawi49062575
+#META# Tags: literature
+#META# ID: 49062575
+#META# Title: زعماء وفنانون وأدباء
+#META# AuthorID: 46049590
+#META# Author: كامل الشناوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

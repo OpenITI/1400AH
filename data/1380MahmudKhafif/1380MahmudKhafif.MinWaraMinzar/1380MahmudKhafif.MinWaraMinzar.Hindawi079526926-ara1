@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380MahmudKhafif.MinWaraMinzar.Hindawi79526926",
-    "BookCats": "novels",
-    "BookID": "79526926",
-    "BookTitle": "من وراء المنظار: صور انتقادية فكهة من حياتنا الاجتماعية",
-    "AuthorID": "40919408",
-    "AuthorNam": "محمود الخفيف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1380MahmudKhafif.MinWaraMinzar.Hindawi79526926
+#META# Tags: novels
+#META# ID: 79526926
+#META# Title: من وراء المنظار: صور انتقادية فكهة من حياتنا الاجتماعية
+#META# AuthorID: 40919408
+#META# Author: محمود الخفيف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

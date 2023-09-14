@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385AsadRustam.MakhtutatBahrMayyit.Hindawi85064627",
-    "BookCats": "history",
-    "BookID": "85064627",
-    "BookTitle": "مخطوطات البحر الميت وجماعة قُمران",
-    "AuthorID": "96461919",
-    "AuthorNam": "أسد رستم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1385AsadRustam.MakhtutatBahrMayyit.Hindawi85064627
+#META# Tags: history
+#META# ID: 85064627
+#META# Title: مخطوطات البحر الميت وجماعة قُمران
+#META# AuthorID: 96461919
+#META# Author: أسد رستم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

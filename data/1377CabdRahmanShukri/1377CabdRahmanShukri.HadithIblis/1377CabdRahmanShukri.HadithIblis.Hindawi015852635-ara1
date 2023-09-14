@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CabdRahmanShukri.HadithIblis.Hindawi15852635",
-    "BookCats": "literature",
-    "BookID": "15852635",
-    "BookTitle": "حديث إبليس",
-    "AuthorID": "57064917",
-    "AuthorNam": "عبد الرحمن شكري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377CabdRahmanShukri.HadithIblis.Hindawi15852635
+#META# Tags: literature
+#META# ID: 15852635
+#META# Title: حديث إبليس
+#META# AuthorID: 57064917
+#META# Author: عبد الرحمن شكري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

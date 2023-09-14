@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1386TahirTanahi.AmirQasrDhahab.Hindawi92529537",
-    "BookCats": "novels",
-    "BookID": "92529537",
-    "BookTitle": "أمير قصر الذهب",
-    "AuthorID": "68492042",
-    "AuthorNam": "طاهر الطناحي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1386TahirTanahi.AmirQasrDhahab.Hindawi92529537
+#META# Tags: novels
+#META# ID: 92529537
+#META# Title: أمير قصر الذهب
+#META# AuthorID: 68492042
+#META# Author: طاهر الطناحي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

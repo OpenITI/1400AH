@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377MuhammadKhidrHusayn.HurriyyaFiIslam.Hindawi18385936",
-    "BookCats": "philosophy",
-    "BookID": "18385936",
-    "BookTitle": "الحرية في الإسلام",
-    "AuthorID": "28079706",
-    "AuthorNam": "محمد الخضر حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377MuhammadKhidrHusayn.HurriyyaFiIslam.Hindawi18385936
+#META# Tags: philosophy
+#META# ID: 18385936
+#META# Title: الحرية في الإسلام
+#META# AuthorID: 28079706
+#META# Author: محمد الخضر حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

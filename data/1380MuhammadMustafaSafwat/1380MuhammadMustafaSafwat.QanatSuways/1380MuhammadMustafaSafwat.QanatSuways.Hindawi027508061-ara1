@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380MuhammadMustafaSafwat.QanatSuways.Hindawi27508061",
-    "BookCats": "history",
-    "BookID": "27508061",
-    "BookTitle": "إنجلترا وقناة السويس: ١٨٥٤–١٩٥١م",
-    "AuthorID": "96490975",
-    "AuthorNam": "محمد مصطفى صفوت",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1380MuhammadMustafaSafwat.QanatSuways.Hindawi27508061
+#META# Tags: history
+#META# ID: 27508061
+#META# Title: إنجلترا وقناة السويس: ١٨٥٤–١٩٥١م
+#META# AuthorID: 96490975
+#META# Author: محمد مصطفى صفوت
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

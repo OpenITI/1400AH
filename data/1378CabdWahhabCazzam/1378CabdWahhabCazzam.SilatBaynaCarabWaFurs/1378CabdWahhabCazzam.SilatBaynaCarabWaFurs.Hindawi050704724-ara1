@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabdWahhabCazzam.SilatBaynaCarabWaFurs.Hindawi50704724",
-    "BookCats": "history :: literature",
-    "BookID": "50704724",
-    "BookTitle": "الصلات بين العرب والفرس وآدابهما في الجاهلية والإسلام",
-    "AuthorID": "24138681",
-    "AuthorNam": "عبد الوهاب عزام",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378CabdWahhabCazzam.SilatBaynaCarabWaFurs.Hindawi50704724
+#META# Tags: history :: literature
+#META# ID: 50704724
+#META# Title: الصلات بين العرب والفرس وآدابهما في الجاهلية والإسلام
+#META# AuthorID: 24138681
+#META# Author: عبد الوهاب عزام
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

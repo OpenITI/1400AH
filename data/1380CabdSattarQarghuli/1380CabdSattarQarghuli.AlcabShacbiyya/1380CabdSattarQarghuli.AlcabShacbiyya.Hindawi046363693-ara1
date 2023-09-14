@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380CabdSattarQarghuli.AlcabShacbiyya.Hindawi46363693",
-    "BookCats": "arts",
-    "BookID": "46363693",
-    "BookTitle": "الألعاب الشعبية لفتيان العراق",
-    "AuthorID": "37414693",
-    "AuthorNam": "عبد الستار القرغولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1380CabdSattarQarghuli.AlcabShacbiyya.Hindawi46363693
+#META# Tags: arts
+#META# ID: 46363693
+#META# Title: الألعاب الشعبية لفتيان العراق
+#META# AuthorID: 37414693
+#META# Author: عبد الستار القرغولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

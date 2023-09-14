@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385AminKhuli.RayFiAbiCala.Hindawi47297974",
-    "BookCats": "biographies :: literature",
-    "BookID": "47297974",
-    "BookTitle": "رأي في أبي العلاء: الرجل الذي وجد نفسه",
-    "AuthorID": "81736093",
-    "AuthorNam": "أمين الخولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1385AminKhuli.RayFiAbiCala.Hindawi47297974
+#META# Tags: biographies :: literature
+#META# ID: 47297974
+#META# Title: رأي في أبي العلاء: الرجل الذي وجد نفسه
+#META# AuthorID: 81736093
+#META# Author: أمين الخولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

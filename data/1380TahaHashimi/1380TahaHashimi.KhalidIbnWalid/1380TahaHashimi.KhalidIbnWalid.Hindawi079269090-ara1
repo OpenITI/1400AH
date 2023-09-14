@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380TahaHashimi.KhalidIbnWalid.Hindawi79269090",
-    "BookCats": "biographies",
-    "BookID": "79269090",
-    "BookTitle": "خالد بن الوليد",
-    "AuthorID": "75130574",
-    "AuthorNam": "طه الهاشمي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1380TahaHashimi.KhalidIbnWalid.Hindawi79269090
+#META# Tags: biographies
+#META# ID: 79269090
+#META# Title: خالد بن الوليد
+#META# AuthorID: 75130574
+#META# Author: طه الهاشمي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

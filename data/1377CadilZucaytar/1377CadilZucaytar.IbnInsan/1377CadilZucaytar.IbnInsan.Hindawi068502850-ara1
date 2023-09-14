@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CadilZucaytar.IbnInsan.Hindawi68502850",
-    "BookCats": "literature :: biographies",
-    "BookID": "68502850",
-    "BookTitle": "ابن الإنسان: حياة نبي",
-    "AuthorID": "63747261",
-    "AuthorNam": "إميل لودفيغ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "61683526",
-    "TranslNam": "عادل زعيتر",
-    "BookRel": "1367EmilLudwig.Menschensohn (TRANSL)"
-}
-
+#META# URI: 1377CadilZucaytar.IbnInsan.Hindawi68502850
+#META# Tags: literature :: biographies
+#META# ID: 68502850
+#META# Title: ابن الإنسان: حياة نبي
+#META# AuthorID: 63747261
+#META# Author: إميل لودفيغ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 61683526
+#META# Translator: عادل زعيتر
+#META# Related_books: 1367EmilLudwig.Menschensohn (TRANSL)
 
 #META#Header#End#
 

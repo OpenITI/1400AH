@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.SiddiqaBintSiddiq.Hindawi83168619",
-    "BookCats": "biographies",
-    "BookID": "83168619",
-    "BookTitle": "الصدِّيقة بنت الصدِّيق",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.SiddiqaBintSiddiq.Hindawi83168619
+#META# Tags: biographies
+#META# ID: 83168619
+#META# Title: الصدِّيقة بنت الصدِّيق
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

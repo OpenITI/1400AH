@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383MuhammadYusufMusa.FalsafatAkhlaq.Hindawi28069053",
-    "BookCats": "philosophy",
-    "BookID": "28069053",
-    "BookTitle": "مباحث في فلسفة الأخلاق",
-    "AuthorID": "69426913",
-    "AuthorNam": "محمد يوسف موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383MuhammadYusufMusa.FalsafatAkhlaq.Hindawi28069053
+#META# Tags: philosophy
+#META# ID: 28069053
+#META# Title: مباحث في فلسفة الأخلاق
+#META# AuthorID: 69426913
+#META# Author: محمد يوسف موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

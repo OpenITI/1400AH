@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379MuhammadAscadTalas.TarikhUmmaCasrIzdihar.Hindawi83020303",
-    "BookCats": "history",
-    "BookID": "83020303",
-    "BookTitle": "عصر الازدهار: تاريخ الأمة العربية (الجزء الخامس)",
-    "AuthorID": "35030937",
-    "AuthorNam": "محمد أسعد طلس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379MuhammadAscadTalas.TarikhUmmaCasrIzdihar.Hindawi83020303
+#META# Tags: history
+#META# ID: 83020303
+#META# Title: عصر الازدهار: تاريخ الأمة العربية (الجزء الخامس)
+#META# AuthorID: 35030937
+#META# Author: محمد أسعد طلس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

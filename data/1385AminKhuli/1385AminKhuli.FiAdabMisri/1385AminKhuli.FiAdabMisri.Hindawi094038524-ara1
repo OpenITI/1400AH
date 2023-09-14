@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385AminKhuli.FiAdabMisri.Hindawi94038524",
-    "BookCats": "literature",
-    "BookID": "94038524",
-    "BookTitle": "في الأدب المصري",
-    "AuthorID": "81736093",
-    "AuthorNam": "أمين الخولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1385AminKhuli.FiAdabMisri.Hindawi94038524
+#META# Tags: literature
+#META# ID: 94038524
+#META# Title: في الأدب المصري
+#META# AuthorID: 81736093
+#META# Author: أمين الخولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

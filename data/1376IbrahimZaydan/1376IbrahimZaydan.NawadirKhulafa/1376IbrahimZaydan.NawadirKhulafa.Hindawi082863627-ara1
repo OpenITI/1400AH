@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376IbrahimZaydan.NawadirKhulafa.Hindawi82863627",
-    "BookCats": "literature",
-    "BookID": "82863627",
-    "BookTitle": "نوادر الخلفاء",
-    "AuthorID": "50824950",
-    "AuthorNam": "إبراهيم زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376IbrahimZaydan.NawadirKhulafa.Hindawi82863627
+#META# Tags: literature
+#META# ID: 82863627
+#META# Title: نوادر الخلفاء
+#META# AuthorID: 50824950
+#META# Author: إبراهيم زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1384BadrShakirSayyab.ManzilAqnan.Hindawi40275097",
-    "BookCats": "poetry",
-    "BookID": "40275097",
-    "BookTitle": "منزل الأقنان",
-    "AuthorID": "17520516",
-    "AuthorNam": "بدر شاكر السياب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1384BadrShakirSayyab.ManzilAqnan.Hindawi40275097
+#META# Tags: poetry
+#META# ID: 40275097
+#META# Title: منزل الأقنان
+#META# AuthorID: 17520516
+#META# Author: بدر شاكر السياب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

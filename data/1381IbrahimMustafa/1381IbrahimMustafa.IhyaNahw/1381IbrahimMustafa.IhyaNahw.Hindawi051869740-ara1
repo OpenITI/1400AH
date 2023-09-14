@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381IbrahimMustafa.IhyaNahw.Hindawi51869740",
-    "BookCats": "linguistics",
-    "BookID": "51869740",
-    "BookTitle": "إحياء النحو",
-    "AuthorID": "73905363",
-    "AuthorNam": "إبراهيم مصطفى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381IbrahimMustafa.IhyaNahw.Hindawi51869740
+#META# Tags: linguistics
+#META# ID: 51869740
+#META# Title: إحياء النحو
+#META# AuthorID: 73905363
+#META# Author: إبراهيم مصطفى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

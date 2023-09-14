@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385AntuniyusBashir.YasucIbnInsan.Hindawi91624293",
-    "BookCats": "literature",
-    "BookID": "91624293",
-    "BookTitle": "يسوع ابن الإنسان",
-    "AuthorID": "85274958",
-    "AuthorNam": "جبران خليل جبران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "41493836",
-    "TranslNam": "أنطونيوس بشير",
-    "BookRel": "1349JibranKhalilJibran.JesusSonOfMan (TRANSL)"
-}
-
+#META# URI: 1385AntuniyusBashir.YasucIbnInsan.Hindawi91624293
+#META# Tags: literature
+#META# ID: 91624293
+#META# Title: يسوع ابن الإنسان
+#META# AuthorID: 85274958
+#META# Author: جبران خليل جبران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 41493836
+#META# Translator: أنطونيوس بشير
+#META# Related_books: 1349JibranKhalilJibran.JesusSonOfMan (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1382CabdMasihHaddad.HikayatMahjar.Hindawi97517380",
-    "BookCats": "literature",
-    "BookID": "97517380",
-    "BookTitle": "حكايات المهجر",
-    "AuthorID": "63616315",
-    "AuthorNam": "عبد المسيح حداد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1382CabdMasihHaddad.HikayatMahjar.Hindawi97517380
+#META# Tags: literature
+#META# ID: 97517380
+#META# Title: حكايات المهجر
+#META# AuthorID: 63616315
+#META# Author: عبد المسيح حداد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

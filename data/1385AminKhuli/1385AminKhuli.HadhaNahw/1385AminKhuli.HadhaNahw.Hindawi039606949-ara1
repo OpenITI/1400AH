@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385AminKhuli.HadhaNahw.Hindawi39606949",
-    "BookCats": "linguistics",
-    "BookID": "39606949",
-    "BookTitle": "هذا النحو",
-    "AuthorID": "81736093",
-    "AuthorNam": "أمين الخولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1385AminKhuli.HadhaNahw.Hindawi39606949
+#META# Tags: linguistics
+#META# ID: 39606949
+#META# Title: هذا النحو
+#META# AuthorID: 81736093
+#META# Author: أمين الخولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

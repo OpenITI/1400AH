@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1382TawfiqHasanShartuni.MinHayyIlaMayyit.Hindawi31741860",
-    "BookCats": "literature",
-    "BookID": "31741860",
-    "BookTitle": "من حي إلى ميت: إلى أخي",
-    "AuthorID": "86907370",
-    "AuthorNam": "توفيق حسن الشرتوني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1382TawfiqHasanShartuni.MinHayyIlaMayyit.Hindawi31741860
+#META# Tags: literature
+#META# ID: 31741860
+#META# Title: من حي إلى ميت: إلى أخي
+#META# AuthorID: 86907370
+#META# Author: توفيق حسن الشرتوني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

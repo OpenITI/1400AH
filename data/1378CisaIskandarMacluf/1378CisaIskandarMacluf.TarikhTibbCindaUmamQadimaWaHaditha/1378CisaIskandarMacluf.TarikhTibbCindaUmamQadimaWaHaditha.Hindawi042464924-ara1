@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CisaIskandarMacluf.TarikhTibbCindaUmamQadimaWaHaditha.Hindawi42464924",
-    "BookCats": "history",
-    "BookID": "42464924",
-    "BookTitle": "تاريخ الطب عند الأمم القديمة والحديثة",
-    "AuthorID": "61846031",
-    "AuthorNam": "عيسى إسكندر المعلوف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378CisaIskandarMacluf.TarikhTibbCindaUmamQadimaWaHaditha.Hindawi42464924
+#META# Tags: history
+#META# ID: 42464924
+#META# Title: تاريخ الطب عند الأمم القديمة والحديثة
+#META# AuthorID: 61846031
+#META# Author: عيسى إسكندر المعلوف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376ZakiMuhammadHasan.TaswirFiIslamCindaFurs.Hindawi29403527",
-    "BookCats": "arts :: history",
-    "BookID": "29403527",
-    "BookTitle": "التصوير في الإسلام عند الفرس",
-    "AuthorID": "15169292",
-    "AuthorNam": "زكي محمد حسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376ZakiMuhammadHasan.TaswirFiIslamCindaFurs.Hindawi29403527
+#META# Tags: arts :: history
+#META# ID: 29403527
+#META# Title: التصوير في الإسلام عند الفرس
+#META# AuthorID: 15169292
+#META# Author: زكي محمد حسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

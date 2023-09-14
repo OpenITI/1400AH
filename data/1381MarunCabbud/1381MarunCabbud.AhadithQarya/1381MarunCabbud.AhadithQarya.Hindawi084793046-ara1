@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MarunCabbud.AhadithQarya.Hindawi84793046",
-    "BookCats": "literature",
-    "BookID": "84793046",
-    "BookTitle": "أحاديث القرية: أقاصيص وذكريات",
-    "AuthorID": "36051407",
-    "AuthorNam": "مارون عبود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381MarunCabbud.AhadithQarya.Hindawi84793046
+#META# Tags: literature
+#META# ID: 84793046
+#META# Title: أحاديث القرية: أقاصيص وذكريات
+#META# AuthorID: 36051407
+#META# Author: مارون عبود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

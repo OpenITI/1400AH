@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1384MuhammadMandur.QisasRumaniyya.Hindawi59753693",
-    "BookCats": "literature",
-    "BookID": "59753693",
-    "BookTitle": "قصص رومانية",
-    "AuthorID": "27181903",
-    "AuthorNam": "محمد مندور",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1384MuhammadMandur.QisasRumaniyya.Hindawi59753693
+#META# Tags: literature
+#META# ID: 59753693
+#META# Title: قصص رومانية
+#META# AuthorID: 27181903
+#META# Author: محمد مندور
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

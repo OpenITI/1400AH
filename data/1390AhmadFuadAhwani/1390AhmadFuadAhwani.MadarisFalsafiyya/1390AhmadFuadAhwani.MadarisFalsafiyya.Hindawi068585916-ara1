@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1390AhmadFuadAhwani.MadarisFalsafiyya.Hindawi68585916",
-    "BookCats": "philosophy",
-    "BookID": "68585916",
-    "BookTitle": "المدارس الفلسفية",
-    "AuthorID": "36160360",
-    "AuthorNam": "أحمد فؤاد الأهواني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1390AhmadFuadAhwani.MadarisFalsafiyya.Hindawi68585916
+#META# Tags: philosophy
+#META# ID: 68585916
+#META# Title: المدارس الفلسفية
+#META# AuthorID: 36160360
+#META# Author: أحمد فؤاد الأهواني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

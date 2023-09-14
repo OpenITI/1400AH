@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.FalsafaQuraniyya.Hindawi19272704",
-    "BookCats": "philosophy",
-    "BookID": "19272704",
-    "BookTitle": "الفلسفة القرآنية",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.FalsafaQuraniyya.Hindawi19272704
+#META# Tags: philosophy
+#META# ID: 19272704
+#META# Title: الفلسفة القرآنية
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

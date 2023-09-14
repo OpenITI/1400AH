@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381IsmacilMazhar.QissatTufan.Hindawi62413635",
-    "BookCats": "philosophy",
-    "BookID": "62413635",
-    "BookTitle": "قصة الطوفان",
-    "AuthorID": "53973639",
-    "AuthorNam": "إسماعيل مظهر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381IsmacilMazhar.QissatTufan.Hindawi62413635
+#META# Tags: philosophy
+#META# ID: 62413635
+#META# Title: قصة الطوفان
+#META# AuthorID: 53973639
+#META# Author: إسماعيل مظهر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

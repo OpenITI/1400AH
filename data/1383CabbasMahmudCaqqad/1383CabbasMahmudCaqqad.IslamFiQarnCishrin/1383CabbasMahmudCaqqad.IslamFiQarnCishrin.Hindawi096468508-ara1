@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.IslamFiQarnCishrin.Hindawi96468508",
-    "BookCats": "history",
-    "BookID": "96468508",
-    "BookTitle": "الإسلام في القرن العشرين: حاضره ومستقبله",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.IslamFiQarnCishrin.Hindawi96468508
+#META# Tags: history
+#META# ID: 96468508
+#META# Title: الإسلام في القرن العشرين: حاضره ومستقبله
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

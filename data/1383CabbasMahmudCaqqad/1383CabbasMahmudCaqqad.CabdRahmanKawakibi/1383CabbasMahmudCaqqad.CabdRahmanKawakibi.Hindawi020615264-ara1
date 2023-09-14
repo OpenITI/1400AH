@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.CabdRahmanKawakibi.Hindawi20615264",
-    "BookCats": "biographies",
-    "BookID": "20615264",
-    "BookTitle": "عبد الرحمن الكواكبي",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.CabdRahmanKawakibi.Hindawi20615264
+#META# Tags: biographies
+#META# ID: 20615264
+#META# Title: عبد الرحمن الكواكبي
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

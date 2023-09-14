@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CadilZucaytar.RasailVoltaireFalsafiyya.Hindawi19720394",
-    "BookCats": "philosophy",
-    "BookID": "19720394",
-    "BookTitle": "الرسائل الفلسفية",
-    "AuthorID": "70507046",
-    "AuthorNam": "فولتير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "61683526",
-    "TranslNam": "عادل زعيتر",
-    "BookRel": "1192Voltaire.LettresPhilosophiques (TRANSL)"
-}
-
+#META# URI: 1377CadilZucaytar.RasailVoltaireFalsafiyya.Hindawi19720394
+#META# Tags: philosophy
+#META# ID: 19720394
+#META# Title: الرسائل الفلسفية
+#META# AuthorID: 70507046
+#META# Author: فولتير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 61683526
+#META# Translator: عادل زعيتر
+#META# Related_books: 1192Voltaire.LettresPhilosophiques (TRANSL)
 
 #META#Header#End#
 

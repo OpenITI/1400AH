@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabdWahhabCazzam.MawqicCukkaz.Hindawi39319758",
-    "BookCats": "history",
-    "BookID": "39319758",
-    "BookTitle": "موقع عكاظ",
-    "AuthorID": "24138681",
-    "AuthorNam": "عبد الوهاب عزام",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378CabdWahhabCazzam.MawqicCukkaz.Hindawi39319758
+#META# Tags: history
+#META# ID: 39319758
+#META# Title: موقع عكاظ
+#META# AuthorID: 24138681
+#META# Author: عبد الوهاب عزام
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

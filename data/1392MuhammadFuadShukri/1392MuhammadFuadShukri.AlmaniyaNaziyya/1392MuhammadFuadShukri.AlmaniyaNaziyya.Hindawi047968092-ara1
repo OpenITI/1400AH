@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392MuhammadFuadShukri.AlmaniyaNaziyya.Hindawi47968092",
-    "BookCats": "history",
-    "BookID": "47968092",
-    "BookTitle": "ألمانيا النازية: دراسة في التاريخ الأوروبي المعاصر (١٩٣٩–١٩٤٥)",
-    "AuthorID": "96173535",
-    "AuthorNam": "محمد فؤاد شكري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392MuhammadFuadShukri.AlmaniyaNaziyya.Hindawi47968092
+#META# Tags: history
+#META# ID: 47968092
+#META# Title: ألمانيا النازية: دراسة في التاريخ الأوروبي المعاصر (١٩٣٩–١٩٤٥)
+#META# AuthorID: 96173535
+#META# Author: محمد فؤاد شكري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

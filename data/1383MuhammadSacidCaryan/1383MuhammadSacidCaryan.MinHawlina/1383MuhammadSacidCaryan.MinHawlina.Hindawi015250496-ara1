@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383MuhammadSacidCaryan.MinHawlina.Hindawi15250496",
-    "BookCats": "literature",
-    "BookID": "15250496",
-    "BookTitle": "من حولنا",
-    "AuthorID": "61380386",
-    "AuthorNam": "محمد سعيد العريان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383MuhammadSacidCaryan.MinHawlina.Hindawi15250496
+#META# Tags: literature
+#META# ID: 15250496
+#META# Title: من حولنا
+#META# AuthorID: 61380386
+#META# Author: محمد سعيد العريان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

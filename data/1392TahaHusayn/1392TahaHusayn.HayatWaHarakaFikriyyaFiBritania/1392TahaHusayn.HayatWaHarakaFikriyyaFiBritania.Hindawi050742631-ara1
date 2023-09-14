@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.HayatWaHarakaFikriyyaFiBritania.Hindawi50742631",
-    "BookCats": "literature",
-    "BookID": "50742631",
-    "BookTitle": "الحياة والحركة الفكرية في بريطانيا",
-    "AuthorID": "59624258 :: 62751307 :: 63691809 :: 70304858",
-    "AuthorNam": "طه حسين :: أحمد محمد حسنين باشا :: علي مصطفى مشرفة :: حافظ عفيفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.HayatWaHarakaFikriyyaFiBritania.Hindawi50742631
+#META# Tags: literature
+#META# ID: 50742631
+#META# Title: الحياة والحركة الفكرية في بريطانيا
+#META# AuthorID: 59624258 :: 62751307 :: 63691809 :: 70304858
+#META# Author: طه حسين :: أحمد محمد حسنين باشا :: علي مصطفى مشرفة :: حافظ عفيفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

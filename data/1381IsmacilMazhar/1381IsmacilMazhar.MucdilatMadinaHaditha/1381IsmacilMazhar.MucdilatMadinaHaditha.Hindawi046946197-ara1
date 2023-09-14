@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381IsmacilMazhar.MucdilatMadinaHaditha.Hindawi46946197",
-    "BookCats": "literature",
-    "BookID": "46946197",
-    "BookTitle": "معضلات المدنية الحديثة",
-    "AuthorID": "53973639",
-    "AuthorNam": "إسماعيل مظهر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381IsmacilMazhar.MucdilatMadinaHaditha.Hindawi46946197
+#META# Tags: literature
+#META# ID: 46946197
+#META# Title: معضلات المدنية الحديثة
+#META# AuthorID: 53973639
+#META# Author: إسماعيل مظهر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

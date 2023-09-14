@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CabdRahmanShukri.Ictiraf.Hindawi83964838",
-    "BookCats": "literature",
-    "BookID": "83964838",
-    "BookTitle": "الاعتراف: وهو قصة نفس",
-    "AuthorID": "57064917",
-    "AuthorNam": "عبد الرحمن شكري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377CabdRahmanShukri.Ictiraf.Hindawi83964838
+#META# Tags: literature
+#META# ID: 83964838
+#META# Title: الاعتراف: وهو قصة نفس
+#META# AuthorID: 57064917
+#META# Author: عبد الرحمن شكري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

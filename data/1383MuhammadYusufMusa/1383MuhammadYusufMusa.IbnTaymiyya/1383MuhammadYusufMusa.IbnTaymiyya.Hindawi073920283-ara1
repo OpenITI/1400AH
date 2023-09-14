@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383MuhammadYusufMusa.IbnTaymiyya.Hindawi73920283",
-    "BookCats": "biographies",
-    "BookID": "73920283",
-    "BookTitle": "ابن تيمية",
-    "AuthorID": "69426913",
-    "AuthorNam": "محمد يوسف موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383MuhammadYusufMusa.IbnTaymiyya.Hindawi73920283
+#META# Tags: biographies
+#META# ID: 73920283
+#META# Title: ابن تيمية
+#META# AuthorID: 69426913
+#META# Author: محمد يوسف موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

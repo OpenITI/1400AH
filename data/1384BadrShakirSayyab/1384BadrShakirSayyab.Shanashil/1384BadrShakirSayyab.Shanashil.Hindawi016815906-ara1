@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1384BadrShakirSayyab.Shanashil.Hindawi16815906",
-    "BookCats": "poetry",
-    "BookID": "16815906",
-    "BookTitle": "شناشيل ابنة الجلبي وإقبال",
-    "AuthorID": "17520516",
-    "AuthorNam": "بدر شاكر السياب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1384BadrShakirSayyab.Shanashil.Hindawi16815906
+#META# Tags: poetry
+#META# ID: 16815906
+#META# Title: شناشيل ابنة الجلبي وإقبال
+#META# AuthorID: 17520516
+#META# Author: بدر شاكر السياب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

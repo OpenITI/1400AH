@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1387JamalDinShayyal.RifacaTahtawi.Hindawi94862794",
-    "BookCats": "history",
-    "BookID": "94862794",
-    "BookTitle": "رفاعة الطهطاوي: زعيم النهضة الفكرية في عصر محمد علي",
-    "AuthorID": "18290715",
-    "AuthorNam": "جمال الدين الشيال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1387JamalDinShayyal.RifacaTahtawi.Hindawi94862794
+#META# Tags: history
+#META# ID: 94862794
+#META# Title: رفاعة الطهطاوي: زعيم النهضة الفكرية في عصر محمد علي
+#META# AuthorID: 18290715
+#META# Author: جمال الدين الشيال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

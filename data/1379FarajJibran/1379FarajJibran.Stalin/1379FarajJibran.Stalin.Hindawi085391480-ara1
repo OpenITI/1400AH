@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379FarajJibran.Stalin.Hindawi85391480",
-    "BookCats": "biographies",
-    "BookID": "85391480",
-    "BookTitle": "ستالين",
-    "AuthorID": "57174090",
-    "AuthorNam": "فرج جبران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379FarajJibran.Stalin.Hindawi85391480
+#META# Tags: biographies
+#META# ID: 85391480
+#META# Title: ستالين
+#META# AuthorID: 57174090
+#META# Author: فرج جبران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

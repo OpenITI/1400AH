@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MuhammadShafiqGhurbal.MadinaFadila.Hindawi60973575",
-    "BookCats": "philosophy",
-    "BookID": "60973575",
-    "BookTitle": "المدينة الفاضلة عند فلاسفة القرن الثامن عشر",
-    "AuthorID": "90747575",
-    "AuthorNam": "كارل بيكر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "26391794",
-    "TranslNam": "محمد شفيق غربال",
-    "BookRel": "1364CarlLBecker.HeavenlyCity (TRANSL)"
-}
-
+#META# URI: 1381MuhammadShafiqGhurbal.MadinaFadila.Hindawi60973575
+#META# Tags: philosophy
+#META# ID: 60973575
+#META# Title: المدينة الفاضلة عند فلاسفة القرن الثامن عشر
+#META# AuthorID: 90747575
+#META# Author: كارل بيكر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 26391794
+#META# Translator: محمد شفيق غربال
+#META# Related_books: 1364CarlLBecker.HeavenlyCity (TRANSL)
 
 #META#Header#End#
 

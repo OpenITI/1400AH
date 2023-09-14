@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1384MuhammadMandur.IsmacilSabri.Hindawi85830684",
-    "BookCats": "literary.criticism",
-    "BookID": "85830684",
-    "BookTitle": "محاضرات عن إسماعيل صبري",
-    "AuthorID": "27181903",
-    "AuthorNam": "محمد مندور",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1384MuhammadMandur.IsmacilSabri.Hindawi85830684
+#META# Tags: literary.criticism
+#META# ID: 85830684
+#META# Title: محاضرات عن إسماعيل صبري
+#META# AuthorID: 27181903
+#META# Author: محمد مندور
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

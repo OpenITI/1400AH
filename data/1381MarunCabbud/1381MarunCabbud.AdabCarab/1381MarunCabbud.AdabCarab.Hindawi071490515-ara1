@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MarunCabbud.AdabCarab.Hindawi71490515",
-    "BookCats": "literary.criticism :: literature",
-    "BookID": "71490515",
-    "BookTitle": "أدب العرب: مختصر تاريخ نشأته وتطوره وسير مشاهير رجاله وخطوط أولى من صورهم",
-    "AuthorID": "36051407",
-    "AuthorNam": "مارون عبود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381MarunCabbud.AdabCarab.Hindawi71490515
+#META# Tags: literary.criticism :: literature
+#META# ID: 71490515
+#META# Title: أدب العرب: مختصر تاريخ نشأته وتطوره وسير مشاهير رجاله وخطوط أولى من صورهم
+#META# AuthorID: 36051407
+#META# Author: مارون عبود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

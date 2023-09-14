@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385AntuniyusBashir.Nabi.Hindawi86402625",
-    "BookCats": "literature",
-    "BookID": "86402625",
-    "BookTitle": "النبي",
-    "AuthorID": "85274958",
-    "AuthorNam": "جبران خليل جبران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "41493836",
-    "TranslNam": "أنطونيوس بشير",
-    "BookRel": "1349JibranKhalilJibran.Prophet (TRANSL)"
-}
-
+#META# URI: 1385AntuniyusBashir.Nabi.Hindawi86402625
+#META# Tags: literature
+#META# ID: 86402625
+#META# Title: النبي
+#META# AuthorID: 85274958
+#META# Author: جبران خليل جبران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 41493836
+#META# Translator: أنطونيوس بشير
+#META# Related_books: 1349JibranKhalilJibran.Prophet (TRANSL)
 
 #META#Header#End#
 

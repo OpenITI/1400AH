@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1384MuhammadMandur.NazawatMaryan.Hindawi60373848",
-    "BookCats": "plays",
-    "BookID": "60373848",
-    "BookTitle": "نزوات ماريان: وليالي أكتوبر ومايو وأغسطس",
-    "AuthorID": "94830742",
-    "AuthorNam": "ألفريد دي موسيه",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "27181903",
-    "TranslNam": "محمد مندور",
-    "BookRel": "1273AlfredDeMusset.CapricesDeMarianne (TRANSL)"
-}
-
+#META# URI: 1384MuhammadMandur.NazawatMaryan.Hindawi60373848
+#META# Tags: plays
+#META# ID: 60373848
+#META# Title: نزوات ماريان: وليالي أكتوبر ومايو وأغسطس
+#META# AuthorID: 94830742
+#META# Author: ألفريد دي موسيه
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 27181903
+#META# Translator: محمد مندور
+#META# Related_books: 1273AlfredDeMusset.CapricesDeMarianne (TRANSL)
 
 #META#Header#End#
 

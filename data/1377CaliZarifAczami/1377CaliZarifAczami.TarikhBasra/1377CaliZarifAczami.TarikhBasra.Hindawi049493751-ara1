@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CaliZarifAczami.TarikhBasra.Hindawi49493751",
-    "BookCats": "history",
-    "BookID": "49493751",
-    "BookTitle": "مختصر تاريخ البصرة",
-    "AuthorID": "50318270",
-    "AuthorNam": "علي ظريف الأعظمي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377CaliZarifAczami.TarikhBasra.Hindawi49493751
+#META# Tags: history
+#META# ID: 49493751
+#META# Title: مختصر تاريخ البصرة
+#META# AuthorID: 50318270
+#META# Author: علي ظريف الأعظمي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

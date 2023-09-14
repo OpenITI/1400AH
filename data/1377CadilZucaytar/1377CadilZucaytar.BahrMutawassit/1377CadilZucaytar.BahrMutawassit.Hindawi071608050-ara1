@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CadilZucaytar.BahrMutawassit.Hindawi71608050",
-    "BookCats": "geography",
-    "BookID": "71608050",
-    "BookTitle": "البحر المتوسط: مصاير بحر",
-    "AuthorID": "63747261",
-    "AuthorNam": "إميل لودفيغ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "61683526",
-    "TranslNam": "عادل زعيتر",
-    "BookRel": "1367EmilLudwig.Mediterranean (TRANSL)"
-}
-
+#META# URI: 1377CadilZucaytar.BahrMutawassit.Hindawi71608050
+#META# Tags: geography
+#META# ID: 71608050
+#META# Title: البحر المتوسط: مصاير بحر
+#META# AuthorID: 63747261
+#META# Author: إميل لودفيغ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 61683526
+#META# Translator: عادل زعيتر
+#META# Related_books: 1367EmilLudwig.Mediterranean (TRANSL)
 
 #META#Header#End#
 

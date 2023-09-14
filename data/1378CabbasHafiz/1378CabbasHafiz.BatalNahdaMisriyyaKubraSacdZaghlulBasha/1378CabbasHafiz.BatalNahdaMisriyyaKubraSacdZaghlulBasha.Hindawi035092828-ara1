@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabbasHafiz.BatalNahdaMisriyyaKubraSacdZaghlulBasha.Hindawi35092828",
-    "BookCats": "history",
-    "BookID": "35092828",
-    "BookTitle": "بطل النهضة المصرية الكبرى سعد زغلول باشا",
-    "AuthorID": "74930641",
-    "AuthorNam": "عباس حافظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378CabbasHafiz.BatalNahdaMisriyyaKubraSacdZaghlulBasha.Hindawi35092828
+#META# Tags: history
+#META# ID: 35092828
+#META# Title: بطل النهضة المصرية الكبرى سعد زغلول باشا
+#META# AuthorID: 74930641
+#META# Author: عباس حافظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

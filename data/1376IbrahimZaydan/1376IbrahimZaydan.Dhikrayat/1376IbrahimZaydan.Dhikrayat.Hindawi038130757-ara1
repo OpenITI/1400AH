@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376IbrahimZaydan.Dhikrayat.Hindawi38130757",
-    "BookCats": "poetry",
-    "BookID": "38130757",
-    "BookTitle": "ذكريات",
-    "AuthorID": "50824950",
-    "AuthorNam": "إبراهيم زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376IbrahimZaydan.Dhikrayat.Hindawi38130757
+#META# Tags: poetry
+#META# ID: 38130757
+#META# Title: ذكريات
+#META# AuthorID: 50824950
+#META# Author: إبراهيم زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385AntuniyusBashir.RamlWaZabad.Hindawi80390379",
-    "BookCats": "poetry",
-    "BookID": "80390379",
-    "BookTitle": "رَمْلٌ وزَبَدٌ",
-    "AuthorID": "85274958",
-    "AuthorNam": "جبران خليل جبران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "41493836",
-    "TranslNam": "أنطونيوس بشير",
-    "BookRel": "1349JibranKhalilJibran.SandAndFoam (TRANSL)"
-}
-
+#META# URI: 1385AntuniyusBashir.RamlWaZabad.Hindawi80390379
+#META# Tags: poetry
+#META# ID: 80390379
+#META# Title: رَمْلٌ وزَبَدٌ
+#META# AuthorID: 85274958
+#META# Author: جبران خليل جبران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 41493836
+#META# Translator: أنطونيوس بشير
+#META# Related_books: 1349JibranKhalilJibran.SandAndFoam (TRANSL)
 
 #META#Header#End#
 

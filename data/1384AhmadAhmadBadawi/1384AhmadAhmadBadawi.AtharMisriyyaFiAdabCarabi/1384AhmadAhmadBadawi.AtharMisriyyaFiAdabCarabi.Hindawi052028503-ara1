@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1384AhmadAhmadBadawi.AtharMisriyyaFiAdabCarabi.Hindawi52028503",
-    "BookCats": "literature",
-    "BookID": "52028503",
-    "BookTitle": "الآثار المصرية في الأدب العربي",
-    "AuthorID": "15858053",
-    "AuthorNam": "أحمد أحمد بدوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1384AhmadAhmadBadawi.AtharMisriyyaFiAdabCarabi.Hindawi52028503
+#META# Tags: literature
+#META# ID: 52028503
+#META# Title: الآثار المصرية في الأدب العربي
+#META# AuthorID: 15858053
+#META# Author: أحمد أحمد بدوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

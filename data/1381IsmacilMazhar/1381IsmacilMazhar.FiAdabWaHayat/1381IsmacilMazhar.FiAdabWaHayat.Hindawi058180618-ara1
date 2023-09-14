@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381IsmacilMazhar.FiAdabWaHayat.Hindawi58180618",
-    "BookCats": "literature",
-    "BookID": "58180618",
-    "BookTitle": "في الأدب والحياة",
-    "AuthorID": "53973639",
-    "AuthorNam": "إسماعيل مظهر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381IsmacilMazhar.FiAdabWaHayat.Hindawi58180618
+#META# Tags: literature
+#META# ID: 58180618
+#META# Title: في الأدب والحياة
+#META# AuthorID: 53973639
+#META# Author: إسماعيل مظهر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

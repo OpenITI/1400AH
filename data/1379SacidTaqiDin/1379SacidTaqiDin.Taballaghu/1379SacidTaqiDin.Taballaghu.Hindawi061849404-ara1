@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379SacidTaqiDin.Taballaghu.Hindawi61849404",
-    "BookCats": "literature",
-    "BookID": "61849404",
-    "BookTitle": "تبلغوا وبلغوا",
-    "AuthorID": "35727531",
-    "AuthorNam": "سعيد تقي الدين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379SacidTaqiDin.Taballaghu.Hindawi61849404
+#META# Tags: literature
+#META# ID: 61849404
+#META# Title: تبلغوا وبلغوا
+#META# AuthorID: 35727531
+#META# Author: سعيد تقي الدين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1382TahaCabdBaqiSurur.Ghazali.Hindawi27427314",
-    "BookCats": "biographies",
-    "BookID": "27427314",
-    "BookTitle": "الغزالي",
-    "AuthorID": "13753183",
-    "AuthorNam": "طه عبد الباقي سرور",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1382TahaCabdBaqiSurur.Ghazali.Hindawi27427314
+#META# Tags: biographies
+#META# ID: 27427314
+#META# Title: الغزالي
+#META# AuthorID: 13753183
+#META# Author: طه عبد الباقي سرور
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

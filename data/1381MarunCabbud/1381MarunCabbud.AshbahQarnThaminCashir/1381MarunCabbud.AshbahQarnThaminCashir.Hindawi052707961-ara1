@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MarunCabbud.AshbahQarnThaminCashir.Hindawi52707961",
-    "BookCats": "plays",
-    "BookID": "52707961",
-    "BookTitle": "أشباح القرن الثامن عشر",
-    "AuthorID": "36051407",
-    "AuthorNam": "مارون عبود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381MarunCabbud.AshbahQarnThaminCashir.Hindawi52707961
+#META# Tags: plays
+#META# ID: 52707961
+#META# Title: أشباح القرن الثامن عشر
+#META# AuthorID: 36051407
+#META# Author: مارون عبود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

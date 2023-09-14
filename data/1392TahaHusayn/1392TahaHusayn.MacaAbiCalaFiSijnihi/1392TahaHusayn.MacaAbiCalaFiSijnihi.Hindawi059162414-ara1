@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.MacaAbiCalaFiSijnihi.Hindawi59162414",
-    "BookCats": "literature",
-    "BookID": "59162414",
-    "BookTitle": "مع أبي العلاء في سجنه",
-    "AuthorID": "59624258",
-    "AuthorNam": "طه حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.MacaAbiCalaFiSijnihi.Hindawi59162414
+#META# Tags: literature
+#META# ID: 59162414
+#META# Title: مع أبي العلاء في سجنه
+#META# AuthorID: 59624258
+#META# Author: طه حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

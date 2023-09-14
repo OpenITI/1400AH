@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.QadatFikr.Hindawi92508209",
-    "BookCats": "philosophy",
-    "BookID": "92508209",
-    "BookTitle": "قادة الفكر",
-    "AuthorID": "59624258",
-    "AuthorNam": "طه حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.QadatFikr.Hindawi92508209
+#META# Tags: philosophy
+#META# ID: 92508209
+#META# Title: قادة الفكر
+#META# AuthorID: 59624258
+#META# Author: طه حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

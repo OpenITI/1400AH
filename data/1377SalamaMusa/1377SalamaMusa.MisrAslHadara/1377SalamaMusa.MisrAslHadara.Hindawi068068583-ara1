@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.MisrAslHadara.Hindawi68068583",
-    "BookCats": "history",
-    "BookID": "68068583",
-    "BookTitle": "مصر أصل الحضارة",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.MisrAslHadara.Hindawi68068583
+#META# Tags: history
+#META# ID: 68068583
+#META# Title: مصر أصل الحضارة
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

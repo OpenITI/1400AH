@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392MuhammadFuadShukri.MisrFiMatlacQarnTasicCashr01.Hindawi86350571",
-    "BookCats": "history",
-    "BookID": "86350571",
-    "BookTitle": "مصر في مطلع القرن التاسع عشر  ١٨٠١–١٨١١م (الجزء الأول)",
-    "AuthorID": "96173535",
-    "AuthorNam": "محمد فؤاد شكري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392MuhammadFuadShukri.MisrFiMatlacQarnTasicCashr01.Hindawi86350571
+#META# Tags: history
+#META# ID: 86350571
+#META# Title: مصر في مطلع القرن التاسع عشر  ١٨٠١–١٨١١م (الجزء الأول)
+#META# AuthorID: 96173535
+#META# Author: محمد فؤاد شكري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

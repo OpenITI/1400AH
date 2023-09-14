@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376AhmadRidaHuhu.NamudhajBashariyya.Hindawi13919315",
-    "BookCats": "novels",
-    "BookID": "13919315",
-    "BookTitle": "نماذج بشرية",
-    "AuthorID": "19058049",
-    "AuthorNam": "أحمد رضا حوحو",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376AhmadRidaHuhu.NamudhajBashariyya.Hindawi13919315
+#META# Tags: novels
+#META# ID: 13919315
+#META# Title: نماذج بشرية
+#META# AuthorID: 19058049
+#META# Author: أحمد رضا حوحو
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CisaIskandarMacluf.MadinatZahla.Hindawi13149739",
-    "BookCats": "history",
-    "BookID": "13149739",
-    "BookTitle": "مدينة زحلة",
-    "AuthorID": "61846031",
-    "AuthorNam": "عيسى إسكندر المعلوف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378CisaIskandarMacluf.MadinatZahla.Hindawi13149739
+#META# Tags: history
+#META# ID: 13149739
+#META# Title: مدينة زحلة
+#META# AuthorID: 61846031
+#META# Author: عيسى إسكندر المعلوف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

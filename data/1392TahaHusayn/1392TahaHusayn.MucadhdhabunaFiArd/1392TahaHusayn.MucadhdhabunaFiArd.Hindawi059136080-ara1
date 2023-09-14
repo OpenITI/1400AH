@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.MucadhdhabunaFiArd.Hindawi59136080",
-    "BookCats": "novels",
-    "BookID": "59136080",
-    "BookTitle": "المعذَّبون في الأرض",
-    "AuthorID": "59624258",
-    "AuthorNam": "طه حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.MucadhdhabunaFiArd.Hindawi59136080
+#META# Tags: novels
+#META# ID: 59136080
+#META# Title: المعذَّبون في الأرض
+#META# AuthorID: 59624258
+#META# Author: طه حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

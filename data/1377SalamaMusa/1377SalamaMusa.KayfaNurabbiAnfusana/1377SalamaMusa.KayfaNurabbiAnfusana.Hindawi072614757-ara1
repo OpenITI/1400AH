@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.KayfaNurabbiAnfusana.Hindawi72614757",
-    "BookCats": "literature",
-    "BookID": "72614757",
-    "BookTitle": "كيف نربي أنفسنا",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.KayfaNurabbiAnfusana.Hindawi72614757
+#META# Tags: literature
+#META# ID: 72614757
+#META# Title: كيف نربي أنفسنا
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

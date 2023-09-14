@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MarunCabbud.JudadWaQudama.Hindawi82857304",
-    "BookCats": "literature",
-    "BookID": "82857304",
-    "BookTitle": "جدد وقدماء: دراسات ونقد ومناقشات",
-    "AuthorID": "36051407",
-    "AuthorNam": "مارون عبود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381MarunCabbud.JudadWaQudama.Hindawi82857304
+#META# Tags: literature
+#META# ID: 82857304
+#META# Title: جدد وقدماء: دراسات ونقد ومناقشات
+#META# AuthorID: 36051407
+#META# Author: مارون عبود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

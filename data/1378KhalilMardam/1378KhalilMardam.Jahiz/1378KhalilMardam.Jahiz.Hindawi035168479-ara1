@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378KhalilMardam.Jahiz.Hindawi35168479",
-    "BookCats": "biographies",
-    "BookID": "35168479",
-    "BookTitle": "الجاحظ: أئمة الأدب (الجزء الأول)",
-    "AuthorID": "17180492",
-    "AuthorNam": "خليل مردم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378KhalilMardam.Jahiz.Hindawi35168479
+#META# Tags: biographies
+#META# ID: 35168479
+#META# Title: الجاحظ: أئمة الأدب (الجزء الأول)
+#META# AuthorID: 17180492
+#META# Author: خليل مردم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

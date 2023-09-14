@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376IbrahimZaydan.NawadirKiram.Hindawi38246146",
-    "BookCats": "literature",
-    "BookID": "38246146",
-    "BookTitle": "نوادر الكرام",
-    "AuthorID": "50824950",
-    "AuthorNam": "إبراهيم زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376IbrahimZaydan.NawadirKiram.Hindawi38246146
+#META# Tags: literature
+#META# ID: 38246146
+#META# Title: نوادر الكرام
+#META# AuthorID: 50824950
+#META# Author: إبراهيم زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

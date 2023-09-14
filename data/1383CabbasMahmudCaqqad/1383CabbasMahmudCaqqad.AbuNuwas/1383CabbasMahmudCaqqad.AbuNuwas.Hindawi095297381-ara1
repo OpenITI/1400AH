@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.AbuNuwas.Hindawi95297381",
-    "BookCats": "biographies",
-    "BookID": "95297381",
-    "BookTitle": "أبو نواس: الحسن بن هانئ",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.AbuNuwas.Hindawi95297381
+#META# Tags: biographies
+#META# ID: 95297381
+#META# Title: أبو نواس: الحسن بن هانئ
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

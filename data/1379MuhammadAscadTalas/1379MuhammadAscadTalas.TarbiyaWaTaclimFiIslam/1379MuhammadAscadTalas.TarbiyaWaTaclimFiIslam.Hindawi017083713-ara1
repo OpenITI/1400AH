@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379MuhammadAscadTalas.TarbiyaWaTaclimFiIslam.Hindawi17083713",
-    "BookCats": "history",
-    "BookID": "17083713",
-    "BookTitle": "التربية والتعليم في الإسلام",
-    "AuthorID": "35030937",
-    "AuthorNam": "محمد أسعد طلس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379MuhammadAscadTalas.TarbiyaWaTaclimFiIslam.Hindawi17083713
+#META# Tags: history
+#META# ID: 17083713
+#META# Title: التربية والتعليم في الإسلام
+#META# AuthorID: 35030937
+#META# Author: محمد أسعد طلس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

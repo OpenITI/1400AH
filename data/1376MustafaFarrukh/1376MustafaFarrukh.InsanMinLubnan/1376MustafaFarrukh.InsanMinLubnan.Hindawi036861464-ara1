@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376MustafaFarrukh.InsanMinLubnan.Hindawi36861464",
-    "BookCats": "literature",
-    "BookID": "36861464",
-    "BookTitle": "قصة إنسان من لبنان",
-    "AuthorID": "90853852",
-    "AuthorNam": "مصطفى فروخ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376MustafaFarrukh.InsanMinLubnan.Hindawi36861464
+#META# Tags: literature
+#META# ID: 36861464
+#META# Title: قصة إنسان من لبنان
+#META# AuthorID: 90853852
+#META# Author: مصطفى فروخ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

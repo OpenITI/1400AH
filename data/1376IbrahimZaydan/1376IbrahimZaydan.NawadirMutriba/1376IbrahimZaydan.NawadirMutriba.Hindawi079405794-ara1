@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376IbrahimZaydan.NawadirMutriba.Hindawi79405794",
-    "BookCats": "literature",
-    "BookID": "79405794",
-    "BookTitle": "النوادر المُطربة",
-    "AuthorID": "50824950",
-    "AuthorNam": "إبراهيم زيدان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376IbrahimZaydan.NawadirMutriba.Hindawi79405794
+#META# Tags: literature
+#META# ID: 79405794
+#META# Title: النوادر المُطربة
+#META# AuthorID: 50824950
+#META# Author: إبراهيم زيدان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

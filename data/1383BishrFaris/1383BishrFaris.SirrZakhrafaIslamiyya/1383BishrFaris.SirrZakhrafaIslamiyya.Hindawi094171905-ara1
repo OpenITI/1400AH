@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383BishrFaris.SirrZakhrafaIslamiyya.Hindawi94171905",
-    "BookCats": "arts",
-    "BookID": "94171905",
-    "BookTitle": "سر الزخرفة الإسلامية",
-    "AuthorID": "59095370",
-    "AuthorNam": "بشر فارس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383BishrFaris.SirrZakhrafaIslamiyya.Hindawi94171905
+#META# Tags: arts
+#META# ID: 94171905
+#META# Title: سر الزخرفة الإسلامية
+#META# AuthorID: 59095370
+#META# Author: بشر فارس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

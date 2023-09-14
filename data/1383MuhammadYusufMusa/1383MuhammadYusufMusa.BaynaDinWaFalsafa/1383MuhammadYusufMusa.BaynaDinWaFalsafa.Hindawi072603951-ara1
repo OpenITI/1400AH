@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383MuhammadYusufMusa.BaynaDinWaFalsafa.Hindawi72603951",
-    "BookCats": "philosophy :: history",
-    "BookID": "72603951",
-    "BookTitle": "بين الدين والفلسفة: في رأي ابن رشد وفلاسفة العصر الوسيط",
-    "AuthorID": "69426913",
-    "AuthorNam": "محمد يوسف موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383MuhammadYusufMusa.BaynaDinWaFalsafa.Hindawi72603951
+#META# Tags: philosophy :: history
+#META# ID: 72603951
+#META# Title: بين الدين والفلسفة: في رأي ابن رشد وفلاسفة العصر الوسيط
+#META# AuthorID: 69426913
+#META# Author: محمد يوسف موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

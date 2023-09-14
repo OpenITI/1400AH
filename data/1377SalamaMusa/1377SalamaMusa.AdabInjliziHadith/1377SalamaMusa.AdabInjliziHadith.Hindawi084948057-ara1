@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.AdabInjliziHadith.Hindawi84948057",
-    "BookCats": "literary.criticism :: literature",
-    "BookID": "84948057",
-    "BookTitle": "الأدب الإنجليزي الحديث",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.AdabInjliziHadith.Hindawi84948057
+#META# Tags: literary.criticism :: literature
+#META# ID: 84948057
+#META# Title: الأدب الإنجليزي الحديث
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

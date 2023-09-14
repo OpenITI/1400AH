@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.AshharKhutabWaMashahirKhutaba.Hindawi24069693",
-    "BookCats": "history :: literature",
-    "BookID": "24069693",
-    "BookTitle": "أشهَر الخطب ومشاهير الخطباء",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.AshharKhutabWaMashahirKhutaba.Hindawi24069693
+#META# Tags: history :: literature
+#META# ID: 24069693
+#META# Title: أشهَر الخطب ومشاهير الخطباء
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

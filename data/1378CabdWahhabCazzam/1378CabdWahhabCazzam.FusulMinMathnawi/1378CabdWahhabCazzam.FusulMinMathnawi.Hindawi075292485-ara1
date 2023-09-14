@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabdWahhabCazzam.FusulMinMathnawi.Hindawi75292485",
-    "BookCats": "poetry",
-    "BookID": "75292485",
-    "BookTitle": "فصول من المثنوي",
-    "AuthorID": "85806462",
-    "AuthorNam": "جلال الدين الرومي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "24138681",
-    "TranslNam": "عبد الوهاب عزام",
-    "BookRel": "0672JalalDinRumi.Mathnawi (TRANSL)"
-}
-
+#META# URI: 1378CabdWahhabCazzam.FusulMinMathnawi.Hindawi75292485
+#META# Tags: poetry
+#META# ID: 75292485
+#META# Title: فصول من المثنوي
+#META# AuthorID: 85806462
+#META# Author: جلال الدين الرومي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 24138681
+#META# Translator: عبد الوهاب عزام
+#META# Related_books: 0672JalalDinRumi.Mathnawi (TRANSL)
 
 #META#Header#End#
 

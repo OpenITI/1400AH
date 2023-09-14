@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1387MuhammadFaridAbuHadid.AnaShacb.Hindawi16419535",
-    "BookCats": "novels",
-    "BookID": "16419535",
-    "BookTitle": "أنا الشعب",
-    "AuthorID": "41796395",
-    "AuthorNam": "محمد فريد أبو حديد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1387MuhammadFaridAbuHadid.AnaShacb.Hindawi16419535
+#META# Tags: novels
+#META# ID: 16419535
+#META# Title: أنا الشعب
+#META# AuthorID: 41796395
+#META# Author: محمد فريد أبو حديد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

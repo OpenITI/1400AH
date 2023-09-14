@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1384BadrShakirSayyab.AnshudatMatar.Hindawi79619585",
-    "BookCats": "poetry",
-    "BookID": "79619585",
-    "BookTitle": "أنشودة المطر",
-    "AuthorID": "17520516",
-    "AuthorNam": "بدر شاكر السياب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1384BadrShakirSayyab.AnshudatMatar.Hindawi79619585
+#META# Tags: poetry
+#META# ID: 79619585
+#META# Title: أنشودة المطر
+#META# AuthorID: 17520516
+#META# Author: بدر شاكر السياب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MarunCabbud.ShabahAbyad.Hindawi25969138",
-    "BookCats": "plays",
-    "BookID": "25969138",
-    "BookTitle": "الشبح الأبيض",
-    "AuthorID": "36051407",
-    "AuthorNam": "مارون عبود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381MarunCabbud.ShabahAbyad.Hindawi25969138
+#META# Tags: plays
+#META# ID: 25969138
+#META# Title: الشبح الأبيض
+#META# AuthorID: 36051407
+#META# Author: مارون عبود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

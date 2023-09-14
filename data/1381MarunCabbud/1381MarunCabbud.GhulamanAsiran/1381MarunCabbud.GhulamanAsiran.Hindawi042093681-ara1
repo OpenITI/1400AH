@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MarunCabbud.GhulamanAsiran.Hindawi42093681",
-    "BookCats": "plays",
-    "BookID": "42093681",
-    "BookTitle": "الغلامان الأسيران",
-    "AuthorID": "None",
-    "AuthorNam": "None",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "36051407",
-    "TranslNam": "مارون عبود",
-    "BookRel": "1300Unidentified.Book (TRANSL)"
-}
-
+#META# URI: 1381MarunCabbud.GhulamanAsiran.Hindawi42093681
+#META# Tags: plays
+#META# ID: 42093681
+#META# Title: الغلامان الأسيران
+#META# AuthorID: None
+#META# Author: None
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 36051407
+#META# Translator: مارون عبود
+#META# Related_books: 1300Unidentified.Book (TRANSL)
 
 #META#Header#End#
 

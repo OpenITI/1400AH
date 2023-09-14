@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379FarajJibran.QisasCanAnatoleFrance.Hindawi84242969",
-    "BookCats": "literature",
-    "BookID": "84242969",
-    "BookTitle": "قصص عن أناتول فرانس",
-    "AuthorID": "57174090",
-    "AuthorNam": "فرج جبران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379FarajJibran.QisasCanAnatoleFrance.Hindawi84242969
+#META# Tags: literature
+#META# ID: 84242969
+#META# Title: قصص عن أناتول فرانس
+#META# AuthorID: 57174090
+#META# Author: فرج جبران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

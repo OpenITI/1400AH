@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1386TahirTanahi.AtyafMinHayatMay.Hindawi52406949",
-    "BookCats": "biographies",
-    "BookID": "52406949",
-    "BookTitle": "أطياف من حياة مي",
-    "AuthorID": "68492042",
-    "AuthorNam": "طاهر الطناحي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1386TahirTanahi.AtyafMinHayatMay.Hindawi52406949
+#META# Tags: biographies
+#META# ID: 52406949
+#META# Title: أطياف من حياة مي
+#META# AuthorID: 68492042
+#META# Author: طاهر الطناحي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

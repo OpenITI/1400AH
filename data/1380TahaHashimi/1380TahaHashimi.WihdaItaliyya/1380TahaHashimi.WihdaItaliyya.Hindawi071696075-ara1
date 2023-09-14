@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380TahaHashimi.WihdaItaliyya.Hindawi71696075",
-    "BookCats": "history",
-    "BookID": "71696075",
-    "BookTitle": "الوحدة الإيطالية",
-    "AuthorID": "90913607",
-    "AuthorNam": "بولتن كنج",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "75130574",
-    "TranslNam": "طه الهاشمي",
-    "BookRel": "1356BoltonKing.ItalianUnity (TRANSL)"
-}
-
+#META# URI: 1380TahaHashimi.WihdaItaliyya.Hindawi71696075
+#META# Tags: history
+#META# ID: 71696075
+#META# Title: الوحدة الإيطالية
+#META# AuthorID: 90913607
+#META# Author: بولتن كنج
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 75130574
+#META# Translator: طه الهاشمي
+#META# Related_books: 1356BoltonKing.ItalianUnity (TRANSL)
 
 #META#Header#End#
 

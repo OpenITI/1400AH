@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378YusufKaram.TarikhFalsafaYunaniyya.Hindawi19204286",
-    "BookCats": "philosophy :: history",
-    "BookID": "19204286",
-    "BookTitle": "تاريخ الفلسفة اليونانية",
-    "AuthorID": "15207908",
-    "AuthorNam": "يوسف كرم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378YusufKaram.TarikhFalsafaYunaniyya.Hindawi19204286
+#META# Tags: philosophy :: history
+#META# ID: 19204286
+#META# Title: تاريخ الفلسفة اليونانية
+#META# AuthorID: 15207908
+#META# Author: يوسف كرم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

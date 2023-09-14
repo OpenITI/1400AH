@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379FarajJibran.QisasCanMashahirKuttabGharb.Hindawi36169390",
-    "BookCats": "literature",
-    "BookID": "36169390",
-    "BookTitle": "قصص عن جماعة من مشاهير كتاب الغرب",
-    "AuthorID": "57174090",
-    "AuthorNam": "فرج جبران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379FarajJibran.QisasCanMashahirKuttabGharb.Hindawi36169390
+#META# Tags: literature
+#META# ID: 36169390
+#META# Title: قصص عن جماعة من مشاهير كتاب الغرب
+#META# AuthorID: 57174090
+#META# Author: فرج جبران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

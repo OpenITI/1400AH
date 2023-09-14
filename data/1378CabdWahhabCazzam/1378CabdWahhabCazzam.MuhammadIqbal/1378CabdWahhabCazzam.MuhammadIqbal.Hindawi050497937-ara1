@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabdWahhabCazzam.MuhammadIqbal.Hindawi50497937",
-    "BookCats": "biographies",
-    "BookID": "50497937",
-    "BookTitle": "محمد إقبال: سيرته وفلسفته وشعره",
-    "AuthorID": "24138681",
-    "AuthorNam": "عبد الوهاب عزام",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378CabdWahhabCazzam.MuhammadIqbal.Hindawi50497937
+#META# Tags: biographies
+#META# ID: 50497937
+#META# Title: محمد إقبال: سيرته وفلسفته وشعره
+#META# AuthorID: 24138681
+#META# Author: عبد الوهاب عزام
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

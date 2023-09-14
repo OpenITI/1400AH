@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MarunCabbud.AqzamJababira.Hindawi80804060",
-    "BookCats": "novels",
-    "BookID": "80804060",
-    "BookTitle": "أقزام جبابرة",
-    "AuthorID": "36051407",
-    "AuthorNam": "مارون عبود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381MarunCabbud.AqzamJababira.Hindawi80804060
+#META# Tags: novels
+#META# ID: 80804060
+#META# Title: أقزام جبابرة
+#META# AuthorID: 36051407
+#META# Author: مارون عبود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

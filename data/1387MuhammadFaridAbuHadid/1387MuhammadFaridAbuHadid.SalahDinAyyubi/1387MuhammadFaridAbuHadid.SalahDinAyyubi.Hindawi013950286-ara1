@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1387MuhammadFaridAbuHadid.SalahDinAyyubi.Hindawi13950286",
-    "BookCats": "history",
-    "BookID": "13950286",
-    "BookTitle": "صلاح الدين الأيوبي وعصره",
-    "AuthorID": "41796395",
-    "AuthorNam": "محمد فريد أبو حديد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1387MuhammadFaridAbuHadid.SalahDinAyyubi.Hindawi13950286
+#META# Tags: history
+#META# ID: 13950286
+#META# Title: صلاح الدين الأيوبي وعصره
+#META# AuthorID: 41796395
+#META# Author: محمد فريد أبو حديد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

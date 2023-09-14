@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1382AhmadLutfiSayyid.QissatHayati.Hindawi48605925",
-    "BookCats": "biographies",
-    "BookID": "48605925",
-    "BookTitle": "قصة حياتي",
-    "AuthorID": "81524293",
-    "AuthorNam": "أحمد لطفي السيد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1382AhmadLutfiSayyid.QissatHayati.Hindawi48605925
+#META# Tags: biographies
+#META# ID: 48605925
+#META# Title: قصة حياتي
+#META# AuthorID: 81524293
+#META# Author: أحمد لطفي السيد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

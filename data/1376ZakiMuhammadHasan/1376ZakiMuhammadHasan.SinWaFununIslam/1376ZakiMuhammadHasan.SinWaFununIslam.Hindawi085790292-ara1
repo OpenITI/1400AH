@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376ZakiMuhammadHasan.SinWaFununIslam.Hindawi85790292",
-    "BookCats": "arts",
-    "BookID": "85790292",
-    "BookTitle": "الصين وفنون الإسلام",
-    "AuthorID": "15169292",
-    "AuthorNam": "زكي محمد حسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376ZakiMuhammadHasan.SinWaFununIslam.Hindawi85790292
+#META# Tags: arts
+#META# ID: 85790292
+#META# Title: الصين وفنون الإسلام
+#META# AuthorID: 15169292
+#META# Author: زكي محمد حسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

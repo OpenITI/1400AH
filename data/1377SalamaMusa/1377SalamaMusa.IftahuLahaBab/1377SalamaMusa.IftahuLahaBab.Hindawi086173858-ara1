@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.IftahuLahaBab.Hindawi86173858",
-    "BookCats": "novels",
-    "BookID": "86173858",
-    "BookTitle": "افتحوا لها الباب",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.IftahuLahaBab.Hindawi86173858
+#META# Tags: novels
+#META# ID: 86173858
+#META# Title: افتحوا لها الباب
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

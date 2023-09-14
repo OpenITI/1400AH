@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CadilZucaytar.Bismarck.Hindawi86369197",
-    "BookCats": "biographies",
-    "BookID": "86369197",
-    "BookTitle": "بسمارك: حياة مكافح",
-    "AuthorID": "63747261",
-    "AuthorNam": "إميل لودفيغ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "61683526",
-    "TranslNam": "عادل زعيتر",
-    "BookRel": "1367EmilLudwig.Bismarck (TRANSL)"
-}
-
+#META# URI: 1377CadilZucaytar.Bismarck.Hindawi86369197
+#META# Tags: biographies
+#META# ID: 86369197
+#META# Title: بسمارك: حياة مكافح
+#META# AuthorID: 63747261
+#META# Author: إميل لودفيغ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 61683526
+#META# Translator: عادل زعيتر
+#META# Related_books: 1367EmilLudwig.Bismarck (TRANSL)
 
 #META#Header#End#
 

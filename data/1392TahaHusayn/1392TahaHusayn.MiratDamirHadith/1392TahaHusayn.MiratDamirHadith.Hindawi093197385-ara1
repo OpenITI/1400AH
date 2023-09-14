@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.MiratDamirHadith.Hindawi93197385",
-    "BookCats": "literature",
-    "BookID": "93197385",
-    "BookTitle": "مرآة الضمير الحديث",
-    "AuthorID": "59624258",
-    "AuthorNam": "طه حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.MiratDamirHadith.Hindawi93197385
+#META# Tags: literature
+#META# ID: 93197385
+#META# Title: مرآة الضمير الحديث
+#META# AuthorID: 59624258
+#META# Author: طه حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

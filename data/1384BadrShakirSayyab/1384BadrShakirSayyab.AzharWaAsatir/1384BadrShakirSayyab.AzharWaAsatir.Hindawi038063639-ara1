@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1384BadrShakirSayyab.AzharWaAsatir.Hindawi38063639",
-    "BookCats": "poetry",
-    "BookID": "38063639",
-    "BookTitle": "أزهار وأساطير",
-    "AuthorID": "17520516",
-    "AuthorNam": "بدر شاكر السياب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1384BadrShakirSayyab.AzharWaAsatir.Hindawi38063639
+#META# Tags: poetry
+#META# ID: 38063639
+#META# Title: أزهار وأساطير
+#META# AuthorID: 17520516
+#META# Author: بدر شاكر السياب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

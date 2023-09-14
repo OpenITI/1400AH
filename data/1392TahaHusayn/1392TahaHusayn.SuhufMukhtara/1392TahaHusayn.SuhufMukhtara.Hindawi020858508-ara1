@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.SuhufMukhtara.Hindawi20858508",
-    "BookCats": "literature",
-    "BookID": "20858508",
-    "BookTitle": "صحف مختارة من الشعر التمثيلي عند اليونان",
-    "AuthorID": "59624258",
-    "AuthorNam": "طه حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.SuhufMukhtara.Hindawi20858508
+#META# Tags: literature
+#META# ID: 20858508
+#META# Title: صحف مختارة من الشعر التمثيلي عند اليونان
+#META# AuthorID: 59624258
+#META# Author: طه حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

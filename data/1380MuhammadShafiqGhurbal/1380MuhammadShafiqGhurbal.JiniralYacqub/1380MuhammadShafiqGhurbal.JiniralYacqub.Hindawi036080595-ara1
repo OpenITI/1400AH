@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380MuhammadShafiqGhurbal.JiniralYacqub.Hindawi36080595",
-    "BookCats": "history",
-    "BookID": "36080595",
-    "BookTitle": "الجنرال يعقوب والفارس لاسكاريس: ومشروع استقلال مصر في سنة ١٨٠١",
-    "AuthorID": "26391794",
-    "AuthorNam": "محمد شفيق غربال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1380MuhammadShafiqGhurbal.JiniralYacqub.Hindawi36080595
+#META# Tags: history
+#META# ID: 36080595
+#META# Title: الجنرال يعقوب والفارس لاسكاريس: ومشروع استقلال مصر في سنة ١٨٠١
+#META# AuthorID: 26391794
+#META# Author: محمد شفيق غربال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

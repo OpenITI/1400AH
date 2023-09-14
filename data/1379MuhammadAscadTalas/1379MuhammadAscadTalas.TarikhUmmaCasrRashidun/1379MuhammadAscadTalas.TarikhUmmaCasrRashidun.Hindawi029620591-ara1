@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379MuhammadAscadTalas.TarikhUmmaCasrRashidun.Hindawi29620591",
-    "BookCats": "history",
-    "BookID": "29620591",
-    "BookTitle": "عصر الخلفاء الراشدين: تاريخ الأمة العربية (الجزء الثالث)",
-    "AuthorID": "35030937",
-    "AuthorNam": "محمد أسعد طلس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379MuhammadAscadTalas.TarikhUmmaCasrRashidun.Hindawi29620591
+#META# Tags: history
+#META# ID: 29620591
+#META# Title: عصر الخلفاء الراشدين: تاريخ الأمة العربية (الجزء الثالث)
+#META# AuthorID: 35030937
+#META# Author: محمد أسعد طلس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

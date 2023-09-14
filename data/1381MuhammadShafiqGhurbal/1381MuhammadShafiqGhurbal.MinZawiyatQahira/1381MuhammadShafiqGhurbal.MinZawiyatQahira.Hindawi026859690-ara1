@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MuhammadShafiqGhurbal.MinZawiyatQahira.Hindawi26859690",
-    "BookCats": "history",
-    "BookID": "26859690",
-    "BookTitle": "من زاوية القاهرة",
-    "AuthorID": "26391794",
-    "AuthorNam": "محمد شفيق غربال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381MuhammadShafiqGhurbal.MinZawiyatQahira.Hindawi26859690
+#META# Tags: history
+#META# ID: 26859690
+#META# Title: من زاوية القاهرة
+#META# AuthorID: 26391794
+#META# Author: محمد شفيق غربال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

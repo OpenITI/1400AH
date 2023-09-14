@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.TarbiyatSalamaMusa.Hindawi30809151",
-    "BookCats": "biographies",
-    "BookID": "30809151",
-    "BookTitle": "تربية سلامة موسى",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.TarbiyatSalamaMusa.Hindawi30809151
+#META# Tags: biographies
+#META# ID: 30809151
+#META# Title: تربية سلامة موسى
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

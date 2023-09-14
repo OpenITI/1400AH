@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379SacidTaqiDin.SayyidatiSadati.Hindawi64246096",
-    "BookCats": "literature",
-    "BookID": "64246096",
-    "BookTitle": "سيداتي سادتي",
-    "AuthorID": "35727531",
-    "AuthorNam": "سعيد تقي الدين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379SacidTaqiDin.SayyidatiSadati.Hindawi64246096
+#META# Tags: literature
+#META# ID: 64246096
+#META# Title: سيداتي سادتي
+#META# AuthorID: 35727531
+#META# Author: سعيد تقي الدين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

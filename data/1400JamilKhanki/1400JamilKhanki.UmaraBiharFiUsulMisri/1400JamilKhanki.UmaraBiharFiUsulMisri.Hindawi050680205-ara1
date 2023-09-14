@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1400JamilKhanki.UmaraBiharFiUsulMisri.Hindawi50680205",
-    "BookCats": "history",
-    "BookID": "50680205",
-    "BookTitle": "أمراء البحار في الأسطول المصري في النصف الأول من القرن التاسع",
-    "AuthorID": "51694947",
-    "AuthorNam": "جميل خانكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1400JamilKhanki.UmaraBiharFiUsulMisri.Hindawi50680205
+#META# Tags: history
+#META# ID: 50680205
+#META# Title: أمراء البحار في الأسطول المصري في النصف الأول من القرن التاسع
+#META# AuthorID: 51694947
+#META# Author: جميل خانكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

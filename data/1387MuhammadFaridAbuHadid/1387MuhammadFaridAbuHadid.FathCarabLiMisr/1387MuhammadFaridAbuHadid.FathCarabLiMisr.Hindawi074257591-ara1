@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1387MuhammadFaridAbuHadid.FathCarabLiMisr.Hindawi74257591",
-    "BookCats": "history",
-    "BookID": "74257591",
-    "BookTitle": "فتح العرب لمصر",
-    "AuthorID": "40397969",
-    "AuthorNam": "ألفريد بتلر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "41796395",
-    "TranslNam": "محمد فريد أبو حديد",
-    "BookRel": "1355AlfredButler.ArabInvasionOfEgypt (TRANSL)"
-}
-
+#META# URI: 1387MuhammadFaridAbuHadid.FathCarabLiMisr.Hindawi74257591
+#META# Tags: history
+#META# ID: 74257591
+#META# Title: فتح العرب لمصر
+#META# AuthorID: 40397969
+#META# Author: ألفريد بتلر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 41796395
+#META# Translator: محمد فريد أبو حديد
+#META# Related_books: 1355AlfredButler.ArabInvasionOfEgypt (TRANSL)
 
 #META#Header#End#
 

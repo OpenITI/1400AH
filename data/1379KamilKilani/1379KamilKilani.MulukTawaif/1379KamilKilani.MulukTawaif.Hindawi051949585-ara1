@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379KamilKilani.MulukTawaif.Hindawi51949585",
-    "BookCats": "history",
-    "BookID": "51949585",
-    "BookTitle": "ملوك الطوائف ونظرات في تاريخ الإسلام",
-    "AuthorID": "25829508",
-    "AuthorNam": "رينهارت دوزي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "82737073",
-    "TranslNam": "كامل كيلاني",
-    "BookRel": "1300ReinhartDozy (TRANSL)"
-}
-
+#META# URI: 1379KamilKilani.MulukTawaif.Hindawi51949585
+#META# Tags: history
+#META# ID: 51949585
+#META# Title: ملوك الطوائف ونظرات في تاريخ الإسلام
+#META# AuthorID: 25829508
+#META# Author: رينهارت دوزي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 82737073
+#META# Translator: كامل كيلاني
+#META# Related_books: 1300ReinhartDozy (TRANSL)
 
 #META#Header#End#
 

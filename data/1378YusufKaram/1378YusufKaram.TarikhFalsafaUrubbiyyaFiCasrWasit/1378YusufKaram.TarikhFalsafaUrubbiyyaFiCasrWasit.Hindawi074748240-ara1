@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378YusufKaram.TarikhFalsafaUrubbiyyaFiCasrWasit.Hindawi74748240",
-    "BookCats": "philosophy :: history",
-    "BookID": "74748240",
-    "BookTitle": "تاريخ الفلسفة الأوربية في العصر الوسيط",
-    "AuthorID": "15207908",
-    "AuthorNam": "يوسف كرم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378YusufKaram.TarikhFalsafaUrubbiyyaFiCasrWasit.Hindawi74748240
+#META# Tags: philosophy :: history
+#META# ID: 74748240
+#META# Title: تاريخ الفلسفة الأوربية في العصر الوسيط
+#META# AuthorID: 15207908
+#META# Author: يوسف كرم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

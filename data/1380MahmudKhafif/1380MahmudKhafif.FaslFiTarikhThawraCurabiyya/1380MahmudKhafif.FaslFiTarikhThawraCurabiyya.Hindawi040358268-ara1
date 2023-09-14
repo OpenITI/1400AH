@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380MahmudKhafif.FaslFiTarikhThawraCurabiyya.Hindawi40358268",
-    "BookCats": "history",
-    "BookID": "40358268",
-    "BookTitle": "فصل في تاريخ الثورة العرابية",
-    "AuthorID": "40919408",
-    "AuthorNam": "محمود الخفيف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1380MahmudKhafif.FaslFiTarikhThawraCurabiyya.Hindawi40358268
+#META# Tags: history
+#META# ID: 40358268
+#META# Title: فصل في تاريخ الثورة العرابية
+#META# AuthorID: 40919408
+#META# Author: محمود الخفيف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

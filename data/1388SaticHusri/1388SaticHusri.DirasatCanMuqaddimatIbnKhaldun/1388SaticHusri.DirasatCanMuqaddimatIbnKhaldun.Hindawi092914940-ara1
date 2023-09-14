@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1388SaticHusri.DirasatCanMuqaddimatIbnKhaldun.Hindawi92914940",
-    "BookCats": "history",
-    "BookID": "92914940",
-    "BookTitle": "دراسات عن مقدمة ابن خلدون",
-    "AuthorID": "63685841",
-    "AuthorNam": "ساطع الحصري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1388SaticHusri.DirasatCanMuqaddimatIbnKhaldun.Hindawi92914940
+#META# Tags: history
+#META# ID: 92914940
+#META# Title: دراسات عن مقدمة ابن خلدون
+#META# AuthorID: 63685841
+#META# Author: ساطع الحصري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

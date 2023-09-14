@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378MansurFahmi.KhataratNafs.Hindawi85853519",
-    "BookCats": "literature",
-    "BookID": "85853519",
-    "BookTitle": "خطرات نفس",
-    "AuthorID": "28493539",
-    "AuthorNam": "منصور فهمي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378MansurFahmi.KhataratNafs.Hindawi85853519
+#META# Tags: literature
+#META# ID: 85853519
+#META# Title: خطرات نفس
+#META# AuthorID: 28493539
+#META# Author: منصور فهمي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

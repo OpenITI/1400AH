@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.Andromaque.Hindawi94803536",
-    "BookCats": "plays",
-    "BookID": "94803536",
-    "BookTitle": "أندروماك",
-    "AuthorID": "28248207",
-    "AuthorNam": "جان راسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "59624258",
-    "TranslNam": "طه حسين",
-    "BookRel": "1110JeanRacine.Andromaque (TRANSL)"
-}
-
+#META# URI: 1392TahaHusayn.Andromaque.Hindawi94803536
+#META# Tags: plays
+#META# ID: 94803536
+#META# Title: أندروماك
+#META# AuthorID: 28248207
+#META# Author: جان راسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 59624258
+#META# Translator: طه حسين
+#META# Related_books: 1110JeanRacine.Andromaque (TRANSL)
 
 #META#Header#End#
 

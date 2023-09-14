@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377CadilZucaytar.UsulTafawut.Hindawi61496319",
-    "BookCats": "philosophy :: social.sciences",
-    "BookID": "61496319",
-    "BookTitle": "أصل التفاوت بين الناس",
-    "AuthorID": "48639273",
-    "AuthorNam": "جان جاك روسو",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "61683526",
-    "TranslNam": "عادل زعيتر",
-    "BookRel": "1191JeanJacquesRousseau.FondmentsDeInegalite (TRANSL)"
-}
-
+#META# URI: 1377CadilZucaytar.UsulTafawut.Hindawi61496319
+#META# Tags: philosophy :: social.sciences
+#META# ID: 61496319
+#META# Title: أصل التفاوت بين الناس
+#META# AuthorID: 48639273
+#META# Author: جان جاك روسو
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 61683526
+#META# Translator: عادل زعيتر
+#META# Related_books: 1191JeanJacquesRousseau.FondmentsDeInegalite (TRANSL)
 
 #META#Header#End#
 

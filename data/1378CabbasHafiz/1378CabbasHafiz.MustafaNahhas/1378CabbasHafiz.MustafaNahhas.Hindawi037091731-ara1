@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabbasHafiz.MustafaNahhas.Hindawi37091731",
-    "BookCats": "history",
-    "BookID": "37091731",
-    "BookTitle": "مصطفى النحاس",
-    "AuthorID": "74930641",
-    "AuthorNam": "عباس حافظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378CabbasHafiz.MustafaNahhas.Hindawi37091731
+#META# Tags: history
+#META# ID: 37091731
+#META# Title: مصطفى النحاس
+#META# AuthorID: 74930641
+#META# Author: عباس حافظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

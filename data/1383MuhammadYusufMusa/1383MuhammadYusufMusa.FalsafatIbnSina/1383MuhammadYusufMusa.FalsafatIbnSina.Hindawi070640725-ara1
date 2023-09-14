@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383MuhammadYusufMusa.FalsafatIbnSina.Hindawi70640725",
-    "BookCats": "philosophy :: social.sciences",
-    "BookID": "70640725",
-    "BookTitle": "الناحية الاجتماعية والسياسية في فلسفة ابن سينا",
-    "AuthorID": "69426913",
-    "AuthorNam": "محمد يوسف موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383MuhammadYusufMusa.FalsafatIbnSina.Hindawi70640725
+#META# Tags: philosophy :: social.sciences
+#META# ID: 70640725
+#META# Title: الناحية الاجتماعية والسياسية في فلسفة ابن سينا
+#META# AuthorID: 69426913
+#META# Author: محمد يوسف موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

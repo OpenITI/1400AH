@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381IsmacilMazhar.MisrFiQaysariyyatIskandar.Hindawi24257352",
-    "BookCats": "history",
-    "BookID": "24257352",
-    "BookTitle": "مصر في قيصرية الإسكندر المقدوني",
-    "AuthorID": "53973639",
-    "AuthorNam": "إسماعيل مظهر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381IsmacilMazhar.MisrFiQaysariyyatIskandar.Hindawi24257352
+#META# Tags: history
+#META# ID: 24257352
+#META# Title: مصر في قيصرية الإسكندر المقدوني
+#META# AuthorID: 53973639
+#META# Author: إسماعيل مظهر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.AhlamShahrazad.Hindawi28414252",
-    "BookCats": "novels",
-    "BookID": "28414252",
-    "BookTitle": "أحلام شهرزاد",
-    "AuthorID": "59624258",
-    "AuthorNam": "طه حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.AhlamShahrazad.Hindawi28414252
+#META# Tags: novels
+#META# ID: 28414252
+#META# Title: أحلام شهرزاد
+#META# AuthorID: 59624258
+#META# Author: طه حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

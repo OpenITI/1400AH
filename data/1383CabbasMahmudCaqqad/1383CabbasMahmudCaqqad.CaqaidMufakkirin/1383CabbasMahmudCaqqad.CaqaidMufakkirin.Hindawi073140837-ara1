@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.CaqaidMufakkirin.Hindawi73140837",
-    "BookCats": "literature",
-    "BookID": "73140837",
-    "BookTitle": "عقائد المفكرين",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.CaqaidMufakkirin.Hindawi73140837
+#META# Tags: literature
+#META# ID: 73140837
+#META# Title: عقائد المفكرين
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

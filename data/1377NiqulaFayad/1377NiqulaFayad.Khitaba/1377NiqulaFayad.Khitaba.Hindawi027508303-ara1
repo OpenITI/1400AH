@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377NiqulaFayad.Khitaba.Hindawi27508303",
-    "BookCats": "literature",
-    "BookID": "27508303",
-    "BookTitle": "الخطابة",
-    "AuthorID": "79141535",
-    "AuthorNam": "نِقولا فياض",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377NiqulaFayad.Khitaba.Hindawi27508303
+#META# Tags: literature
+#META# ID: 27508303
+#META# Title: الخطابة
+#META# AuthorID: 79141535
+#META# Author: نِقولا فياض
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

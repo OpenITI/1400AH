@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1376ZakiMuhammadHasan.RahhalaMuslimunFiCusurWusta.Hindawi26180405",
-    "BookCats": "history",
-    "BookID": "26180405",
-    "BookTitle": "الرحَّالة المسلمون في العصور الوسطى",
-    "AuthorID": "15169292",
-    "AuthorNam": "زكي محمد حسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1376ZakiMuhammadHasan.RahhalaMuslimunFiCusurWusta.Hindawi26180405
+#META# Tags: history
+#META# ID: 26180405
+#META# Title: الرحَّالة المسلمون في العصور الوسطى
+#META# AuthorID: 15169292
+#META# Author: زكي محمد حسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.AraHurra.Hindawi84859728",
-    "BookCats": "literature",
-    "BookID": "84859728",
-    "BookTitle": "آراء حرة",
-    "AuthorID": "59624258 :: 59604649 :: 63691809",
-    "AuthorNam": "طه حسين :: محمد كرد علي :: علي مصطفى مشرفة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.AraHurra.Hindawi84859728
+#META# Tags: literature
+#META# ID: 84859728
+#META# Title: آراء حرة
+#META# AuthorID: 59624258 :: 59604649 :: 63691809
+#META# Author: طه حسين :: محمد كرد علي :: علي مصطفى مشرفة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

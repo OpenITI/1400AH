@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378YusufKaram.ThalathaDurusFiDescartes.Hindawi13050381",
-    "BookCats": "philosophy",
-    "BookID": "13050381",
-    "BookTitle": "ثلاثة دروس في ديكارت",
-    "AuthorID": "94973606",
-    "AuthorNam": "ألكسندر كواريه",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "15207908",
-    "TranslNam": "يوسف كرم",
-    "BookRel": "1383AlexandreKoyre.TroisLeconsSurDescartes (TRANSL)"
-}
-
+#META# URI: 1378YusufKaram.ThalathaDurusFiDescartes.Hindawi13050381
+#META# Tags: philosophy
+#META# ID: 13050381
+#META# Title: ثلاثة دروس في ديكارت
+#META# AuthorID: 94973606
+#META# Author: ألكسندر كواريه
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 15207908
+#META# Translator: يوسف كرم
+#META# Related_books: 1383AlexandreKoyre.TroisLeconsSurDescartes (TRANSL)
 
 #META#Header#End#
 

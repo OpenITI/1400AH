@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379FarajJubran.YawmiyyatAdamWaHawa.Hindawi75181646",
-    "BookCats": "literature",
-    "BookID": "75181646",
-    "BookTitle": "يوميات آدم وحواء",
-    "AuthorID": "28628174",
-    "AuthorNam": "مارك توين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "57174090",
-    "TranslNam": "فرج جبران",
-    "BookRel": "1327MarkTwain.PrivateLifeOfAdamAndEve (TRANSL)"
-}
-
+#META# URI: 1379FarajJubran.YawmiyyatAdamWaHawa.Hindawi75181646
+#META# Tags: literature
+#META# ID: 75181646
+#META# Title: يوميات آدم وحواء
+#META# AuthorID: 28628174
+#META# Author: مارك توين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 57174090
+#META# Translator: فرج جبران
+#META# Related_books: 1327MarkTwain.PrivateLifeOfAdamAndEve (TRANSL)
 
 #META#Header#End#
 

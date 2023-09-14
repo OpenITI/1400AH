@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381IsmacilMazhar.WathbatSharq.Hindawi71370941",
-    "BookCats": "social.sciences",
-    "BookID": "71370941",
-    "BookTitle": "وثبة الشرق",
-    "AuthorID": "53973639",
-    "AuthorNam": "إسماعيل مظهر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381IsmacilMazhar.WathbatSharq.Hindawi71370941
+#META# Tags: social.sciences
+#META# ID: 71370941
+#META# Title: وثبة الشرق
+#META# AuthorID: 53973639
+#META# Author: إسماعيل مظهر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379KamilKilani.WaczQisasi.Hindawi95382805",
-    "BookCats": "history",
-    "BookID": "95382805",
-    "BookTitle": "الوعظ القصصي",
-    "AuthorID": "82737073",
-    "AuthorNam": "كامل كيلاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379KamilKilani.WaczQisasi.Hindawi95382805
+#META# Tags: history
+#META# ID: 95382805
+#META# Title: الوعظ القصصي
+#META# AuthorID: 82737073
+#META# Author: كامل كيلاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

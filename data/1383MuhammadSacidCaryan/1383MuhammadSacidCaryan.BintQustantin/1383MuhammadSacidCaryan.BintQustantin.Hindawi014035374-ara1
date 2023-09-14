@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383MuhammadSacidCaryan.BintQustantin.Hindawi14035374",
-    "BookCats": "novels :: history",
-    "BookID": "14035374",
-    "BookTitle": "بنت قُسطنطين",
-    "AuthorID": "61380386",
-    "AuthorNam": "محمد سعيد العريان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383MuhammadSacidCaryan.BintQustantin.Hindawi14035374
+#META# Tags: novels :: history
+#META# ID: 14035374
+#META# Title: بنت قُسطنطين
+#META# AuthorID: 61380386
+#META# Author: محمد سعيد العريان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

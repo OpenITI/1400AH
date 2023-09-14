@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.BarnardShaw.Hindawi92920684",
-    "BookCats": "literary.criticism :: literature",
-    "BookID": "92920684",
-    "BookTitle": "برنارد شو",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.BarnardShaw.Hindawi92920684
+#META# Tags: literary.criticism :: literature
+#META# ID: 92920684
+#META# Title: برنارد شو
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

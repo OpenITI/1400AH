@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MarunCabbud.AshbahWaRumuz.Hindawi24136827",
-    "BookCats": "literature",
-    "BookID": "24136827",
-    "BookTitle": "أشباح ورموز",
-    "AuthorID": "36051407",
-    "AuthorNam": "مارون عبود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381MarunCabbud.AshbahWaRumuz.Hindawi24136827
+#META# Tags: literature
+#META# ID: 24136827
+#META# Title: أشباح ورموز
+#META# AuthorID: 36051407
+#META# Author: مارون عبود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

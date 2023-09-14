@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381IsmacilMazhar.QaysarWaKliyubatra.Hindawi30461695",
-    "BookCats": "history",
-    "BookID": "30461695",
-    "BookTitle": "قيصر وكليوبطرا",
-    "AuthorID": "53973639",
-    "AuthorNam": "إسماعيل مظهر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381IsmacilMazhar.QaysarWaKliyubatra.Hindawi30461695
+#META# Tags: history
+#META# ID: 30461695
+#META# Title: قيصر وكليوبطرا
+#META# AuthorID: 53973639
+#META# Author: إسماعيل مظهر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

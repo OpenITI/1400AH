@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1400MuhammadRifcat.TakwinMisr.Hindawi61313825",
-    "BookCats": "history",
-    "BookID": "61313825",
-    "BookTitle": "تكوين مصر",
-    "AuthorID": "26391794",
-    "AuthorNam": "محمد شفيق غربال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "26391794 :: 62738192",
-    "TranslNam": "محمد شفيق غربال :: محمد رفعت",
-    "BookRel": "1381MuhammadShafiqGhurbal.MakingOfEgypt (TRANSL)"
-}
-
+#META# URI: 1400MuhammadRifcat.TakwinMisr.Hindawi61313825
+#META# Tags: history
+#META# ID: 61313825
+#META# Title: تكوين مصر
+#META# AuthorID: 26391794
+#META# Author: محمد شفيق غربال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 26391794 :: 62738192
+#META# Translator: محمد شفيق غربال :: محمد رفعت
+#META# Related_books: 1381MuhammadShafiqGhurbal.MakingOfEgypt (TRANSL)
 
 #META#Header#End#
 

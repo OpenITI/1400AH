@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379FarajJibran.TacaliMaciIlaBakistan.Hindawi91628042",
-    "BookCats": "travel.literature",
-    "BookID": "91628042",
-    "BookTitle": "تعال معي إلى باكستان",
-    "AuthorID": "57174090",
-    "AuthorNam": "فرج جبران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379FarajJibran.TacaliMaciIlaBakistan.Hindawi91628042
+#META# Tags: travel.literature
+#META# ID: 91628042
+#META# Title: تعال معي إلى باكستان
+#META# AuthorID: 57174090
+#META# Author: فرج جبران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

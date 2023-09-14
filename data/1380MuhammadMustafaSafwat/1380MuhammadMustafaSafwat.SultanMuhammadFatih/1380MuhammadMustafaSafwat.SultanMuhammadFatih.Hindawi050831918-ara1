@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1380MuhammadMustafaSafwat.SultanMuhammadFatih.Hindawi50831918",
-    "BookCats": "history",
-    "BookID": "50831918",
-    "BookTitle": "السلطان محمد الفاتح: فاتح القسطنطينية",
-    "AuthorID": "96490975",
-    "AuthorNam": "محمد مصطفى صفوت",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1380MuhammadMustafaSafwat.SultanMuhammadFatih.Hindawi50831918
+#META# Tags: history
+#META# ID: 50831918
+#META# Title: السلطان محمد الفاتح: فاتح القسطنطينية
+#META# AuthorID: 96490975
+#META# Author: محمد مصطفى صفوت
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

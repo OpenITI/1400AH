@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1387JamalDinShayyal.QissatIhtilal.Hindawi16963646",
-    "BookCats": "history",
-    "BookID": "16963646",
-    "BookTitle": "قصة الاحتلال",
-    "AuthorID": "18290715",
-    "AuthorNam": "جمال الدين الشيال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1387JamalDinShayyal.QissatIhtilal.Hindawi16963646
+#META# Tags: history
+#META# ID: 16963646
+#META# Title: قصة الاحتلال
+#META# AuthorID: 18290715
+#META# Author: جمال الدين الشيال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

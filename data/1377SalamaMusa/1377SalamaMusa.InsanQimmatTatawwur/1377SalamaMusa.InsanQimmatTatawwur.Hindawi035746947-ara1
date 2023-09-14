@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.InsanQimmatTatawwur.Hindawi35746947",
-    "BookCats": "philosophy",
-    "BookID": "35746947",
-    "BookTitle": "الإنسان قمة التطور",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.InsanQimmatTatawwur.Hindawi35746947
+#META# Tags: philosophy
+#META# ID: 35746947
+#META# Title: الإنسان قمة التطور
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

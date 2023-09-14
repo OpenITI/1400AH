@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MarunCabbud.RasailWaAhadith.Hindawi90741509",
-    "BookCats": "literature",
-    "BookID": "90741509",
-    "BookTitle": "رسائل وأحاديث",
-    "AuthorID": "36051407",
-    "AuthorNam": "مارون عبود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381MarunCabbud.RasailWaAhadith.Hindawi90741509
+#META# Tags: literature
+#META# ID: 90741509
+#META# Title: رسائل وأحاديث
+#META# AuthorID: 36051407
+#META# Author: مارون عبود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

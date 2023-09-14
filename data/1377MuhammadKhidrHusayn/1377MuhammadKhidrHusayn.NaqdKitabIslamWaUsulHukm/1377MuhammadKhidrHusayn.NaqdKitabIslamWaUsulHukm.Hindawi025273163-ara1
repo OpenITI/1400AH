@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377MuhammadKhidrHusayn.NaqdKitabIslamWaUsulHukm.Hindawi25273163",
-    "BookCats": "history",
-    "BookID": "25273163",
-    "BookTitle": "نقض كتاب الإسلام وأصول الحكم",
-    "AuthorID": "28079706",
-    "AuthorNam": "محمد الخضر حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377MuhammadKhidrHusayn.NaqdKitabIslamWaUsulHukm.Hindawi25273163
+#META# Tags: history
+#META# ID: 25273163
+#META# Title: نقض كتاب الإسلام وأصول الحكم
+#META# AuthorID: 28079706
+#META# Author: محمد الخضر حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385AsadRustam.MustalahTarikh.Hindawi61483693",
-    "BookCats": "history",
-    "BookID": "61483693",
-    "BookTitle": "مصطلح التاريخ",
-    "AuthorID": "96461919",
-    "AuthorNam": "أسد رستم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1385AsadRustam.MustalahTarikh.Hindawi61483693
+#META# Tags: history
+#META# ID: 61483693
+#META# Title: مصطلح التاريخ
+#META# AuthorID: 96461919
+#META# Author: أسد رستم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

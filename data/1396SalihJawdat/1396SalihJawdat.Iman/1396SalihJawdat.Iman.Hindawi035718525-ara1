@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1396SalihJawdat.Iman.Hindawi35718525",
-    "BookCats": "novels",
-    "BookID": "35718525",
-    "BookTitle": "الإيمان: رواية تاريخية مصرية",
-    "AuthorID": "97529072",
-    "AuthorNam": "أوجين بريو",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "14130959",
-    "TranslNam": "صالح جودت",
-    "BookRel": "1352EugeneBrieux.Foi (TRANSL)"
-}
-
+#META# URI: 1396SalihJawdat.Iman.Hindawi35718525
+#META# Tags: novels
+#META# ID: 35718525
+#META# Title: الإيمان: رواية تاريخية مصرية
+#META# AuthorID: 97529072
+#META# Author: أوجين بريو
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 14130959
+#META# Translator: صالح جودت
+#META# Related_books: 1352EugeneBrieux.Foi (TRANSL)
 
 #META#Header#End#
 

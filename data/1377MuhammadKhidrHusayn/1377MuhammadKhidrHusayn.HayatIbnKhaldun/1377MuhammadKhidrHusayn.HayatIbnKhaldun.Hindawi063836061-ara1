@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377MuhammadKhidrHusayn.HayatIbnKhaldun.Hindawi63836061",
-    "BookCats": "biographies",
-    "BookID": "63836061",
-    "BookTitle": "حياة ابن خلدون ومُثل من فلسفته الاجتماعية",
-    "AuthorID": "28079706",
-    "AuthorNam": "محمد الخضر حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377MuhammadKhidrHusayn.HayatIbnKhaldun.Hindawi63836061
+#META# Tags: biographies
+#META# ID: 63836061
+#META# Title: حياة ابن خلدون ومُثل من فلسفته الاجتماعية
+#META# AuthorID: 28079706
+#META# Author: محمد الخضر حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

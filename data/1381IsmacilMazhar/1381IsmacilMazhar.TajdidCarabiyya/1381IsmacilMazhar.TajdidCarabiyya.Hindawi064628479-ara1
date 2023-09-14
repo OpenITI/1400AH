@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381IsmacilMazhar.TajdidCarabiyya.Hindawi64628479",
-    "BookCats": "linguistics",
-    "BookID": "64628479",
-    "BookTitle": "تجديد العربية: بحيث تصبح وافية بمطالب العلوم والفنون",
-    "AuthorID": "53973639",
-    "AuthorNam": "إسماعيل مظهر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381IsmacilMazhar.TajdidCarabiyya.Hindawi64628479
+#META# Tags: linguistics
+#META# ID: 64628479
+#META# Title: تجديد العربية: بحيث تصبح وافية بمطالب العلوم والفنون
+#META# AuthorID: 53973639
+#META# Author: إسماعيل مظهر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

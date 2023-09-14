@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1379KamilKilani.MasaricKhulafa.Hindawi74640940",
-    "BookCats": "history",
-    "BookID": "74640940",
-    "BookTitle": "مصارع الخلفاء",
-    "AuthorID": "82737073",
-    "AuthorNam": "كامل كيلاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1379KamilKilani.MasaricKhulafa.Hindawi74640940
+#META# Tags: history
+#META# ID: 74640940
+#META# Title: مصارع الخلفاء
+#META# AuthorID: 82737073
+#META# Author: كامل كيلاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

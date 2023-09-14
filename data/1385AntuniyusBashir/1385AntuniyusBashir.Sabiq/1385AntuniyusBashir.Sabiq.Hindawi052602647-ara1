@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385AntuniyusBashir.Sabiq.Hindawi52602647",
-    "BookCats": "literature",
-    "BookID": "52602647",
-    "BookTitle": "السابق",
-    "AuthorID": "85274958",
-    "AuthorNam": "جبران خليل جبران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "41493836",
-    "TranslNam": "أنطونيوس بشير",
-    "BookRel": "1349JibranKhalilJibran.Forerunner (TRANSL)"
-}
-
+#META# URI: 1385AntuniyusBashir.Sabiq.Hindawi52602647
+#META# Tags: literature
+#META# ID: 52602647
+#META# Title: السابق
+#META# AuthorID: 85274958
+#META# Author: جبران خليل جبران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 41493836
+#META# Translator: أنطونيوس بشير
+#META# Related_books: 1349JibranKhalilJibran.Forerunner (TRANSL)
 
 #META#Header#End#
 

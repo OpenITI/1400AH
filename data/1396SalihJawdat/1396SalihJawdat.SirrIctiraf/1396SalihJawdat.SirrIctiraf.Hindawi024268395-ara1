@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1396SalihJawdat.SirrIctiraf.Hindawi24268395",
-    "BookCats": "novels :: history",
-    "BookID": "24268395",
-    "BookTitle": "سر الاعتراف",
-    "AuthorID": "26064860",
-    "AuthorNam": "ألكسندر ديماس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "14130959",
-    "TranslNam": "صالح جودت",
-    "BookRel": "1287AlexandreDumas.Confessions (TRANSL)"
-}
-
+#META# URI: 1396SalihJawdat.SirrIctiraf.Hindawi24268395
+#META# Tags: novels :: history
+#META# ID: 24268395
+#META# Title: سر الاعتراف
+#META# AuthorID: 26064860
+#META# Author: ألكسندر ديماس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 14130959
+#META# Translator: صالح جودت
+#META# Related_books: 1287AlexandreDumas.Confessions (TRANSL)
 
 #META#Header#End#
 

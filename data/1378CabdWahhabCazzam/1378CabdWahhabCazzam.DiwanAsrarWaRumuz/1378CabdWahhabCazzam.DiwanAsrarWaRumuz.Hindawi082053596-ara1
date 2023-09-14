@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabdWahhabCazzam.DiwanAsrarWaRumuz.Hindawi82053596",
-    "BookCats": "poetry",
-    "BookID": "82053596",
-    "BookTitle": "ديوان الأسرار والرموز",
-    "AuthorID": "94029630",
-    "AuthorNam": "محمد إقبال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "24138681",
-    "TranslNam": "عبد الوهاب عزام",
-    "BookRel": "1356MuhammadIqbal.DiwanAsrarWaRumuz (TRANSL)"
-}
-
+#META# URI: 1378CabdWahhabCazzam.DiwanAsrarWaRumuz.Hindawi82053596
+#META# Tags: poetry
+#META# ID: 82053596
+#META# Title: ديوان الأسرار والرموز
+#META# AuthorID: 94029630
+#META# Author: محمد إقبال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 24138681
+#META# Translator: عبد الوهاب عزام
+#META# Related_books: 1356MuhammadIqbal.DiwanAsrarWaRumuz (TRANSL)
 
 #META#Header#End#
 

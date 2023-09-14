@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1382WasifBarudi.HadhaTaj.Hindawi73752425",
-    "BookCats": "novels",
-    "BookID": "73752425",
-    "BookTitle": "هذا التاج",
-    "AuthorID": "63525138",
-    "AuthorNam": "واصف البارودي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1382WasifBarudi.HadhaTaj.Hindawi73752425
+#META# Tags: novels
+#META# ID: 73752425
+#META# Title: هذا التاج
+#META# AuthorID: 63525138
+#META# Author: واصف البارودي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

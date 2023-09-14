@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.CaraisWaShayatin.Hindawi91818506",
-    "BookCats": "poetry",
-    "BookID": "91818506",
-    "BookTitle": "عرائس وشياطين",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.CaraisWaShayatin.Hindawi91818506
+#META# Tags: poetry
+#META# ID: 91818506
+#META# Title: عرائس وشياطين
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

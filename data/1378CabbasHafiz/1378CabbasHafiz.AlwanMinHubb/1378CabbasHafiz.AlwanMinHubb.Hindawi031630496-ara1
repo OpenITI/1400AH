@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1378CabbasHafiz.AlwanMinHubb.Hindawi31630496",
-    "BookCats": "literature",
-    "BookID": "31630496",
-    "BookTitle": "ألوان من الحب",
-    "AuthorID": "74930641",
-    "AuthorNam": "عباس حافظ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1378CabbasHafiz.AlwanMinHubb.Hindawi31630496
+#META# Tags: literature
+#META# ID: 31630496
+#META# Title: ألوان من الحب
+#META# AuthorID: 74930641
+#META# Author: عباس حافظ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

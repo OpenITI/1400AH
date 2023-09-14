@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1377SalamaMusa.CaqliWaCaqlak.Hindawi91397502",
-    "BookCats": "literature",
-    "BookID": "91397502",
-    "BookTitle": "عقلي وعقلك",
-    "AuthorID": "40515160",
-    "AuthorNam": "سلامة موسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1377SalamaMusa.CaqliWaCaqlak.Hindawi91397502
+#META# Tags: literature
+#META# ID: 91397502
+#META# Title: عقلي وعقلك
+#META# AuthorID: 40515160
+#META# Author: سلامة موسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

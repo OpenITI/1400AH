@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1400TawfiqSacidRafici.MaWaraBihar.Hindawi61485748",
-    "BookCats": "literature",
-    "BookID": "61485748",
-    "BookTitle": "ما وراء البحار",
-    "AuthorID": "35157164",
-    "AuthorNam": "توفيق سعيد الرافعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1400TawfiqSacidRafici.MaWaraBihar.Hindawi61485748
+#META# Tags: literature
+#META# ID: 61485748
+#META# Title: ما وراء البحار
+#META# AuthorID: 35157164
+#META# Author: توفيق سعيد الرافعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

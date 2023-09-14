@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381IsmacilMazhar.TarikhFikrCarabi.Hindawi73191613",
-    "BookCats": "philosophy",
-    "BookID": "73191613",
-    "BookTitle": "تاريخ الفكر العربي",
-    "AuthorID": "53973639",
-    "AuthorNam": "إسماعيل مظهر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381IsmacilMazhar.TarikhFikrCarabi.Hindawi73191613
+#META# Tags: philosophy
+#META# ID: 73191613
+#META# Title: تاريخ الفكر العربي
+#META# AuthorID: 53973639
+#META# Author: إسماعيل مظهر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

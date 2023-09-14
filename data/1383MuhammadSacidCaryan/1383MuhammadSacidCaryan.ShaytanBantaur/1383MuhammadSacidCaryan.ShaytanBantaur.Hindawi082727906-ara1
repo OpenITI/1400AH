@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383MuhammadSacidCaryan.ShaytanBantaur.Hindawi82727906",
-    "BookCats": "literature",
-    "BookID": "82727906",
-    "BookTitle": "شيطان بنتاءور: أو لِبَد لقمانْ وهُدهُد سُلَيمان",
-    "AuthorID": "37094079",
-    "AuthorNam": "أحمد شوقي",
-    "EditorID": "61380386",
-    "EditorNam": "محمد سعيد العريان",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383MuhammadSacidCaryan.ShaytanBantaur.Hindawi82727906
+#META# Tags: literature
+#META# ID: 82727906
+#META# Title: شيطان بنتاءور: أو لِبَد لقمانْ وهُدهُد سُلَيمان
+#META# AuthorID: 37094079
+#META# Author: أحمد شوقي
+#META# EditorID: 61380386
+#META# Editor: محمد سعيد العريان
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

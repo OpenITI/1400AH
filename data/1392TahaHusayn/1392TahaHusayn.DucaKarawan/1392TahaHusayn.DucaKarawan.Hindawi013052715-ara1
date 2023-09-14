@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1392TahaHusayn.DucaKarawan.Hindawi13052715",
-    "BookCats": "novels",
-    "BookID": "13052715",
-    "BookTitle": "دعاء الكروان",
-    "AuthorID": "59624258",
-    "AuthorNam": "طه حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1392TahaHusayn.DucaKarawan.Hindawi13052715
+#META# Tags: novels
+#META# ID: 13052715
+#META# Title: دعاء الكروان
+#META# AuthorID: 59624258
+#META# Author: طه حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

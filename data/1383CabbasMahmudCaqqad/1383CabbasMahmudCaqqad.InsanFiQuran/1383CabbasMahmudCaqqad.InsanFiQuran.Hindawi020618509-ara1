@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1383CabbasMahmudCaqqad.InsanFiQuran.Hindawi20618509",
-    "BookCats": "philosophy",
-    "BookID": "20618509",
-    "BookTitle": "الإنسان في القرآن",
-    "AuthorID": "64642852",
-    "AuthorNam": "عباس محمود العقاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1383CabbasMahmudCaqqad.InsanFiQuran.Hindawi20618509
+#META# Tags: philosophy
+#META# ID: 20618509
+#META# Title: الإنسان في القرآن
+#META# AuthorID: 64642852
+#META# Author: عباس محمود العقاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

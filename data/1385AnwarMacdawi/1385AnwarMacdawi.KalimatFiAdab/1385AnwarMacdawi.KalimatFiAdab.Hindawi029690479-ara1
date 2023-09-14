@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1385AnwarMacdawi.KalimatFiAdab.Hindawi29690479",
-    "BookCats": "literature",
-    "BookID": "29690479",
-    "BookTitle": "كلمات في الأدب",
-    "AuthorID": "41804697",
-    "AuthorNam": "أنور المعداوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1385AnwarMacdawi.KalimatFiAdab.Hindawi29690479
+#META# Tags: literature
+#META# ID: 29690479
+#META# Title: كلمات في الأدب
+#META# AuthorID: 41804697
+#META# Author: أنور المعداوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

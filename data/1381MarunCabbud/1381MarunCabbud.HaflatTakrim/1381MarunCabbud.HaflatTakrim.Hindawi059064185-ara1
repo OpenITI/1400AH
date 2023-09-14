@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1381MarunCabbud.HaflatTakrim.Hindawi59064185",
-    "BookCats": "plays",
-    "BookID": "59064185",
-    "BookTitle": "حفلة تكريم: تمثيلية إذاعية لمناسبة عيد الشجرة",
-    "AuthorID": "36051407",
-    "AuthorNam": "مارون عبود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1381MarunCabbud.HaflatTakrim.Hindawi59064185
+#META# Tags: plays
+#META# ID: 59064185
+#META# Title: حفلة تكريم: تمثيلية إذاعية لمناسبة عيد الشجرة
+#META# AuthorID: 36051407
+#META# Author: مارون عبود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 
