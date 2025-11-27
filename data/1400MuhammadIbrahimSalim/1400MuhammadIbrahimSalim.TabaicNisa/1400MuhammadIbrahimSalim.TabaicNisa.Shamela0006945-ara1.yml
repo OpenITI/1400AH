@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 121425
-00#VERS#LENGTH###: 29656
+00#VERS#CLENGTH##: 121467
+00#VERS#LENGTH###: 29663
 00#VERS#URI######: 1400MuhammadIbrahimSalim.TabaicNisa.Shamela0006945-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/875042185
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/875042185
@@ -11,11 +11,11 @@
     2-Some parts have two successive titles. I put the second titles in
     parenthesis. 3- Page 115 is missing and page 117 is repeated in its
     place.
-    PV: this text file was originally classified as written by Ibn ʿAbd Rabbih, 
+    PV: this text file was originally classified as written by Ibn ʿAbd Rabbih,
     but is in fact a modern selection of texts from his al-ʿIqd al-Farīd
     (see introduction, p. 7). The introduction is missing in the text file.
     The modern compiler (Salīm)'s contributions are marked as EDITORIAL here;
-    I would leave them like that and not remove them. 
+    I would leave them like that and not remove them.
     NB: I can't observe the problem with p. 115; perhaps anothe page is meant by HRH?
 90#VERS#DATE#####: 2019-12-08
 90#VERS#ISSUES###: MISSING_PARTS, CLEANED_VERSION, PRIMARY_VERSION
